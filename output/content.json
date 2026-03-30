@@ -1,35 +1,35 @@
 {
-  "category": "العمل والأعمال",
+  "category": "أساسيات السفر",
   "phrases": [
     {
-      "english": "I am looking for a new job opportunity.",
-      "arabic": "أنا أبحث عن فرصة عمل جديدة.",
-      "pronunciation": "Ana abHath 'an furSa 'amal jadeeda.",
-      "context": "Use this when you are actively seeking employment."
+      "english": "Where is the nearest train station?",
+      "arabic": "أين أقرب محطة قطار؟",
+      "pronunciation": "Ayna aqrab mahattat qitar?",
+      "context": "Use this when you need to find public transportation."
     },
     {
-      "english": "What are your working hours?",
-      "arabic": "ما هي ساعات عملك؟",
-      "pronunciation": "Ma hiya saa'aat 'amalak?",
-      "context": "Inquire about the typical daily schedule at a workplace."
+      "english": "I would like to book a hotel room for two nights.",
+      "arabic": "أود حجز غرفة فندق لليلتين.",
+      "pronunciation": "Awadd hajz ghurfat funduq lil-laylatayn.",
+      "context": "Say this when you are checking into a hotel."
     },
     {
-      "english": "This project requires a lot of effort.",
-      "arabic": "هذا المشروع يتطلب الكثير من الجهد.",
-      "pronunciation": "Hatha al-mashroo' yatatallab al-katheer min al-juhd.",
-      "context": "Describe a task that demands significant work."
+      "english": "How much does this cost?",
+      "arabic": "كم يكلف هذا؟",
+      "pronunciation": "Kam yukallif hatha?",
+      "context": "Ask this when you are shopping or looking at prices."
     },
     {
-      "english": "I need to schedule a meeting with the manager.",
-      "arabic": "أحتاج إلى تحديد موعد اجتماع مع المدير.",
-      "pronunciation": "AHTaaj ila taHdeed maw'id ijtimaa' ma'a al-mudeer.",
-      "context": "Arrange a formal discussion with your supervisor."
+      "english": "Can you help me please?",
+      "arabic": "هل يمكنك مساعدتي من فضلك؟",
+      "pronunciation": "Hal yumkinuka musa'adati min fadlik?",
+      "context": "Use this when you need assistance from someone."
     },
     {
-      "english": "Our company has a great team.",
-      "arabic": "شركتنا لديها فريق رائع.",
-      "pronunciation": "Sharikatuna ladayha fareeq raa'i'.",
-      "context": "Praise the collaborative spirit of your colleagues."
+      "english": "I am allergic to peanuts.",
+      "arabic": "أنا لدي حساسية من الفول السوداني.",
+      "pronunciation": "Ana ladayya hasasiyyah min al-foul as-sudani.",
+      "context": "Inform restaurant staff about dietary restrictions."
     }
   ],
   "total": 5
