@@ -1,12 +1,33 @@
-name: Arabic Learning Video Bot
+name: Velocity arabic - Daily 19x Upload
 
 on:
   schedule:
-    # Run 5 times a day at these times (UTC):
-    # 00:00, 04:48, 09:36, 14:24, 19:12 (spread throughout the day)
-    - cron: '0 0,4,9,14,19 * * *'
-  workflow_dispatch: # Allow manual trigger
+    # --- MORNING SLOTS (UTC) ---
+    - cron: '0 1 * * *'   # 8:00 PM EST
+    - cron: '15 2 * * *'  # 9:15 PM EST
+    - cron: '30 3 * * *'  # 10:30 PM EST
+    - cron: '45 4 * * *'  # 11:45 PM EST
+    - cron: '0 6 * * *'   # 1:00 AM EST
+    - cron: '15 7 * * *'  # 2:15 AM EST
+    - cron: '30 8 * * *'  # 3:30 AM EST
+    - cron: '45 9 * * *'  # 4:45 AM EST
+    - cron: '0 11 * * *'  # 6:00 AM EST
+    
+    # --- AFTERNOON SLOTS (UTC) ---
+    - cron: '30 12 * * *' # 7:30 AM EST (Avoids 12:00 UTC)
+    - cron: '0 13 * * *'  # 8:00 AM EST
+    - cron: '30 14 * * *' # 9:30 AM EST (Avoids 14:00 UTC)
+    - cron: '0 15 * * *'  # 10:00 AM EST
+    - cron: '30 16 * * *' # 11:30 AM EST
+    
+    # --- EVENING SLOTS (UTC) ---
+    - cron: '30 17 * * *' # 12:30 PM EST (Avoids 17:00 UTC)
+    - cron: '0 18 * * *'  # 1:00 PM EST
+    - cron: '30 19 * * *' # 2:30 PM EST
+    - cron: '30 20 * * *' # 3:30 PM EST (Avoids 20:00 UTC)
+    - cron: '0 22 * * *'  # 5:00 PM EST
 
+  workflow_dispatch:
 jobs:
   generate-and-upload:
     runs-on: ubuntu-latest
