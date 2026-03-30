@@ -1,35 +1,35 @@
 {
-  "category": "التسوق",
+  "category": "العائلة والعلاقات",
   "phrases": [
     {
-      "english": "How much does this cost?",
-      "arabic": "بكم هذا؟",
-      "pronunciation": "Bikam hatha?",
-      "context": "Use this when you want to ask the price of an item."
+      "english": "My brother is a doctor.",
+      "arabic": "أخي طبيب.",
+      "pronunciation": "Akhi tabeeb.",
+      "context": "Use this to describe your brother's profession."
     },
     {
-      "english": "I want to buy this shirt.",
-      "arabic": "أريد شراء هذه القميص.",
-      "pronunciation": "Ureed shiraa' hathihi al-qamees.",
-      "context": "Use this when you have decided to purchase a specific item."
+      "english": "My sister lives in Cairo.",
+      "arabic": "أختي تعيش في القاهرة.",
+      "pronunciation": "Ukhti ta'eeshu fee al-Qahirah.",
+      "context": "Share information about where your sister resides."
     },
     {
-      "english": "Do you have this in a smaller size?",
-      "arabic": "هل لديكم هذا بمقاس أصغر؟",
-      "pronunciation": "Hal ladaykum hatha bimqaas asghar?",
-      "context": "Use this when the item is too big and you need a different size."
+      "english": "I have two children.",
+      "arabic": "لدي طفلان.",
+      "pronunciation": "Ladaiy tiflān.",
+      "context": "State the number of children you have."
     },
     {
-      "english": "Can I pay with a credit card?",
-      "arabic": "هل يمكنني الدفع ببطاقة الائتمان؟",
-      "pronunciation": "Hal yumkinuni ad-daf' bibitaaqat al-i'timaan?",
-      "context": "Use this to inquire about payment methods."
+      "english": "My parents are visiting next week.",
+      "arabic": "والداي سيزوران الأسبوع القادم.",
+      "pronunciation": "Waliday sayazooran al-usboo' al-qādim.",
+      "context": "Inform others about your parents' upcoming visit."
     },
     {
-      "english": "Where is the changing room?",
-      "arabic": "أين غرفة القياس؟",
-      "pronunciation": "Ayna ghurfat al-qiyaas?",
-      "context": "Use this when you need to try on clothes before buying."
+      "english": "My wife is very kind.",
+      "arabic": "زوجتي لطيفة جداً.",
+      "pronunciation": "Zawjati lateefah jiddan.",
+      "context": "Express appreciation for your wife's personality."
     }
   ],
   "total": 5
