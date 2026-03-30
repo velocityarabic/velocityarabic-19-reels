@@ -1,35 +1,35 @@
 {
-  "category": "العائلة والعلاقات",
+  "category": "الاتجاهات",
   "phrases": [
     {
-      "english": "My brother is a doctor.",
-      "arabic": "أخي طبيب.",
-      "pronunciation": "Akhi tabeeb.",
-      "context": "Use this to describe your brother's profession."
+      "english": "Excuse me, where is the nearest bathroom?",
+      "arabic": "عفواً، أين أقرب حمام؟",
+      "pronunciation": "Afwan, ayna aqrab hammam?",
+      "context": "Use this when you need to find a restroom urgently."
     },
     {
-      "english": "My sister lives in Cairo.",
-      "arabic": "أختي تعيش في القاهرة.",
-      "pronunciation": "Ukhti ta'eeshu fee al-Qahirah.",
-      "context": "Share information about where your sister resides."
+      "english": "Can you please show me on the map?",
+      "arabic": "هل يمكنك أن تريني على الخريطة من فضلك؟",
+      "pronunciation": "Hal yumkinuka an turini 'ala al-khareeta min fadlik?",
+      "context": "This is helpful when you are lost and have a map."
     },
     {
-      "english": "I have two children.",
-      "arabic": "لدي طفلان.",
-      "pronunciation": "Ladaiy tiflān.",
-      "context": "State the number of children you have."
+      "english": "How do I get to the train station?",
+      "arabic": "كيف أصل إلى محطة القطار؟",
+      "pronunciation": "Kayfa asil ila mahattat al-qitar?",
+      "context": "Ask this when you need directions to a transportation hub."
     },
     {
-      "english": "My parents are visiting next week.",
-      "arabic": "والداي سيزوران الأسبوع القادم.",
-      "pronunciation": "Waliday sayazooran al-usboo' al-qādim.",
-      "context": "Inform others about your parents' upcoming visit."
+      "english": "Is it far from here?",
+      "arabic": "هل هو بعيد من هنا؟",
+      "pronunciation": "Hal huwa ba'eed min huna?",
+      "context": "Inquire about the distance to a specific location."
     },
     {
-      "english": "My wife is very kind.",
-      "arabic": "زوجتي لطيفة جداً.",
-      "pronunciation": "Zawjati lateefah jiddan.",
-      "context": "Express appreciation for your wife's personality."
+      "english": "Turn left at the next corner.",
+      "arabic": "اتجه يسارًا عند الزاوية القادمة.",
+      "pronunciation": "Ittajih yasaaran 'inda al-zawiya al-qadima.",
+      "context": "This is a common directional instruction you might receive."
     }
   ],
   "total": 5
