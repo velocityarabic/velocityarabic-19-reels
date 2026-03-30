@@ -1,35 +1,35 @@
 {
-  "category": "الاتجاهات",
+  "category": "الطعام والطعام",
   "phrases": [
     {
-      "english": "Excuse me, where is the nearest bathroom?",
-      "arabic": "عفواً، أين أقرب حمام؟",
-      "pronunciation": "Afwan, ayna aqrab hammam?",
-      "context": "Use this when you need to find a restroom urgently."
+      "english": "I would like to order a plate of grilled chicken, please.",
+      "arabic": "أرغب في طلب طبق دجاج مشوي، من فضلك.",
+      "pronunciation": "Arghab fi talab tabaq dajaj mashwi, min fadlik.",
+      "context": "Use this when ordering food at a restaurant."
     },
     {
-      "english": "Can you please show me on the map?",
-      "arabic": "هل يمكنك أن تريني على الخريطة من فضلك؟",
-      "pronunciation": "Hal yumkinuka an turini 'ala al-khareeta min fadlik?",
-      "context": "This is helpful when you are lost and have a map."
+      "english": "This food is very delicious, thank you.",
+      "arabic": "هذا الطعام لذيذ جداً، شكراً لكم.",
+      "pronunciation": "Hatha at-ta'am ladheedh jiddan, shukran lakum.",
+      "context": "Say this to compliment the chef or the server on the meal."
     },
     {
-      "english": "How do I get to the train station?",
-      "arabic": "كيف أصل إلى محطة القطار؟",
-      "pronunciation": "Kayfa asil ila mahattat al-qitar?",
-      "context": "Ask this when you need directions to a transportation hub."
+      "english": "Can I have the bill, please?",
+      "arabic": "هل يمكنني الحصول على الفاتورة، من فضلك؟",
+      "pronunciation": "Hal yumkinuni al-husool ala al-fatoorah, min fadlik?",
+      "context": "Use this to ask for the check at the end of your meal."
     },
     {
-      "english": "Is it far from here?",
-      "arabic": "هل هو بعيد من هنا؟",
-      "pronunciation": "Hal huwa ba'eed min huna?",
-      "context": "Inquire about the distance to a specific location."
+      "english": "I am allergic to peanuts.",
+      "arabic": "أنا لدي حساسية من الفول السوداني.",
+      "pronunciation": "Ana ladayya hasasiyya min al-foul as-sudani.",
+      "context": "Inform your server about any food allergies before ordering."
     },
     {
-      "english": "Turn left at the next corner.",
-      "arabic": "اتجه يسارًا عند الزاوية القادمة.",
-      "pronunciation": "Ittajih yasaaran 'inda al-zawiya al-qadima.",
-      "context": "This is a common directional instruction you might receive."
+      "english": "What is the specialty of the house?",
+      "arabic": "ما هو تخصص المطعم؟",
+      "pronunciation": "Ma huwa takhassus al-mat'am?",
+      "context": "Ask this to inquire about the restaurant's signature dishes."
     }
   ],
   "total": 5
