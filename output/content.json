@@ -1,35 +1,35 @@
 {
-  "category": "العبارات الشائعة",
+  "category": "التسوق",
   "phrases": [
     {
-      "english": "Hello, how are you today?",
-      "arabic": "مرحباً، كيف حالك اليوم؟",
-      "pronunciation": "Marhaban, kayfa haluk al-yawm?",
-      "context": "A polite greeting to inquire about someone's well-being."
+      "english": "How much does this cost?",
+      "arabic": "بكم هذا؟",
+      "pronunciation": "Bikam hatha?",
+      "context": "Use this when you want to ask the price of an item."
     },
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً لك على مساعدتك.",
-      "pronunciation": "Shukran jazeelan lak 'ala musa'adatik.",
-      "context": "Expressing gratitude for assistance received."
+      "english": "I want to buy this shirt.",
+      "arabic": "أريد شراء هذه القميص.",
+      "pronunciation": "Ureed shiraa' hathihi al-qamees.",
+      "context": "Use this when you have decided to purchase a specific item."
     },
     {
-      "english": "Excuse me, where is the train station?",
-      "arabic": "عفواً، أين تقع محطة القطار؟",
-      "pronunciation": "'Afwan, ayn taqa' mahattat al-qitar?",
-      "context": "Asking for directions politely."
+      "english": "Do you have this in a smaller size?",
+      "arabic": "هل لديكم هذا بمقاس أصغر؟",
+      "pronunciation": "Hal ladaykum hatha bimqaas asghar?",
+      "context": "Use this when the item is too big and you need a different size."
     },
     {
-      "english": "I don't understand this word.",
-      "arabic": "أنا لا أفهم هذه الكلمة.",
-      "pronunciation": "Ana la afham hadhihi al-kalimah.",
-      "context": "Indicating a lack of comprehension about a specific term."
+      "english": "Can I pay with a credit card?",
+      "arabic": "هل يمكنني الدفع ببطاقة الائتمان؟",
+      "pronunciation": "Hal yumkinuni ad-daf' bibitaaqat al-i'timaan?",
+      "context": "Use this to inquire about payment methods."
     },
     {
-      "english": "Nice to meet you.",
-      "arabic": "تشرفت بلقائك.",
-      "pronunciation": "Tasharraftu biliqa'ik.",
-      "context": "A polite closing remark after being introduced to someone."
+      "english": "Where is the changing room?",
+      "arabic": "أين غرفة القياس؟",
+      "pronunciation": "Ayna ghurfat al-qiyaas?",
+      "context": "Use this when you need to try on clothes before buying."
     }
   ],
   "total": 5
