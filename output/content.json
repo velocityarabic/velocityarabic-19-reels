@@ -1,35 +1,35 @@
 {
-  "category": "الأرقام والوقت",
+  "category": "العمل والأعمال",
   "phrases": [
     {
-      "english": "What time is it right now?",
-      "arabic": "كم الساعة الآن؟",
-      "pronunciation": "Kam as-sa'a al-aan?",
-      "context": "Use this to ask for the current time."
+      "english": "I am looking for a new job opportunity.",
+      "arabic": "أنا أبحث عن فرصة عمل جديدة.",
+      "pronunciation": "Ana abHath 'an furSa 'amal jadeeda.",
+      "context": "Use this when you are actively seeking employment."
     },
     {
-      "english": "The meeting is scheduled for three o'clock in the afternoon.",
-      "arabic": "الاجتماع مقرر في الساعة الثالثة بعد الظهر.",
-      "pronunciation": "Al-ijtimaa' muqarrar fi as-sa'a ath-thalitha ba'd adh-dhuhr.",
-      "context": "Use this to state a specific appointment time."
+      "english": "What are your working hours?",
+      "arabic": "ما هي ساعات عملك؟",
+      "pronunciation": "Ma hiya saa'aat 'amalak?",
+      "context": "Inquire about the typical daily schedule at a workplace."
     },
     {
-      "english": "I need two apples and one banana from the market.",
-      "arabic": "أحتاج تفاحتين وموزة واحدة من السوق.",
-      "pronunciation": "Ahtaj tuffahtain wa mawzah wahida min as-souq.",
-      "context": "Use this when you want to buy a specific quantity of items."
+      "english": "This project requires a lot of effort.",
+      "arabic": "هذا المشروع يتطلب الكثير من الجهد.",
+      "pronunciation": "Hatha al-mashroo' yatatallab al-katheer min al-juhd.",
+      "context": "Describe a task that demands significant work."
     },
     {
-      "english": "My birthday is on the fifth of May.",
-      "arabic": "عيد ميلادي في الخامس من مايو.",
-      "pronunciation": "Eid miladi fi al-khamis min Mayo.",
-      "context": "Use this to tell someone your birthday."
+      "english": "I need to schedule a meeting with the manager.",
+      "arabic": "أحتاج إلى تحديد موعد اجتماع مع المدير.",
+      "pronunciation": "AHTaaj ila taHdeed maw'id ijtimaa' ma'a al-mudeer.",
+      "context": "Arrange a formal discussion with your supervisor."
     },
     {
-      "english": "Can you repeat that number please?",
-      "arabic": "هل يمكنك تكرار هذا الرقم من فضلك؟",
-      "pronunciation": "Hal yumkinuka tikrar hadha ar-raqm min fadlik?",
-      "context": "Use this when you didn't catch a number."
+      "english": "Our company has a great team.",
+      "arabic": "شركتنا لديها فريق رائع.",
+      "pronunciation": "Sharikatuna ladayha fareeq raa'i'.",
+      "context": "Praise the collaborative spirit of your colleagues."
     }
   ],
   "total": 5
