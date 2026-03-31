@@ -1,35 +1,35 @@
 {
-  "category": "العمل والأعمال",
+  "category": "الألوان والأوصاف",
   "phrases": [
     {
-      "english": "I am looking for a new job opportunity.",
-      "arabic": "أنا أبحث عن فرصة عمل جديدة.",
-      "pronunciation": "Ana abHath 'an furSa 'amal jadeeda.",
-      "context": "Use this when you are actively seeking employment."
+      "english": "This shirt is a beautiful blue color.",
+      "arabic": "هذا القميص لونه أزرق جميل.",
+      "pronunciation": "Hadha al-qamees lawnuhu azraq jameel.",
+      "context": "Use this to compliment clothing or other items you find visually appealing."
     },
     {
-      "english": "What are your working hours?",
-      "arabic": "ما هي ساعات عملك؟",
-      "pronunciation": "Ma hiya saa'aat 'amalak?",
-      "context": "Inquire about the typical daily schedule at a workplace."
+      "english": "The car is black and very fast.",
+      "arabic": "السيارة سوداء وسريعة جداً.",
+      "pronunciation": "Al-sayyarah sawda' wa saree'ah jiddan.",
+      "context": "This phrase is useful for describing vehicles and their performance."
     },
     {
-      "english": "This project requires a lot of effort.",
-      "arabic": "هذا المشروع يتطلب الكثير من الجهد.",
-      "pronunciation": "Hatha al-mashroo' yatatallab al-katheer min al-juhd.",
-      "context": "Describe a task that demands significant work."
+      "english": "I like the green color of the trees.",
+      "arabic": "أحب اللون الأخضر للأشجار.",
+      "pronunciation": "Uhibbu al-lawn al-akhdar lil-ashjar.",
+      "context": "Employ this when you want to express appreciation for nature's colors."
     },
     {
-      "english": "I need to schedule a meeting with the manager.",
-      "arabic": "أحتاج إلى تحديد موعد اجتماع مع المدير.",
-      "pronunciation": "AHTaaj ila taHdeed maw'id ijtimaa' ma'a al-mudeer.",
-      "context": "Arrange a formal discussion with your supervisor."
+      "english": "Her dress is a lovely shade of red.",
+      "arabic": "فستانها درجة جميلة من اللون الأحمر.",
+      "pronunciation": "Fustanuhā darajah jameelah min al-lawn al-ahmar.",
+      "context": "This is perfect for describing a person's clothing with a specific color."
     },
     {
-      "english": "Our company has a great team.",
-      "arabic": "شركتنا لديها فريق رائع.",
-      "pronunciation": "Sharikatuna ladayha fareeq raa'i'.",
-      "context": "Praise the collaborative spirit of your colleagues."
+      "english": "The sky is bright yellow during sunset.",
+      "arabic": "السماء صفراء لامعة وقت الغروب.",
+      "pronunciation": "Al-sama' safra' laami'ah waqt al-ghuroob.",
+      "context": "Use this to describe natural phenomena and atmospheric conditions."
     }
   ],
   "total": 5
