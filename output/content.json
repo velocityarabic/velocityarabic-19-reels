@@ -1,35 +1,35 @@
 {
-  "category": "الصحة والجسد",
+  "category": "التسوق",
   "phrases": [
     {
-      "english": "I have a headache.",
-      "arabic": "أنا أشعر بصداع.",
-      "pronunciation": "Ana asha'ur bi sudaa'.",
-      "context": "Use this when you feel pain in your head."
+      "english": "How much does this cost?",
+      "arabic": "بكم هذا؟",
+      "pronunciation": "Bikam hatha?",
+      "context": "Use this when you want to ask the price of an item."
     },
     {
-      "english": "I feel tired.",
-      "arabic": "أشعر بالتعب.",
-      "pronunciation": "Asha'ur bil ta'ab.",
-      "context": "Say this when you need rest."
+      "english": "I want to buy this shirt.",
+      "arabic": "أريد شراء هذه القميص.",
+      "pronunciation": "Ureed shiraa' hathihi al-qamees.",
+      "context": "Use this when you have decided to purchase a specific item."
     },
     {
-      "english": "I am allergic to peanuts.",
-      "arabic": "لدي حساسية من الفول السوداني.",
-      "pronunciation": "Ladai hasasiyya min al-foul as-soudani.",
-      "context": "Inform others about this food allergy."
+      "english": "Do you have this in a smaller size?",
+      "arabic": "هل لديكم هذا بمقاس أصغر؟",
+      "pronunciation": "Hal ladaykum hatha bimqaas asghar?",
+      "context": "Use this when the item is too big and you need a different size."
     },
     {
-      "english": "My stomach hurts.",
-      "arabic": "معدتي تؤلمني.",
-      "pronunciation": "Ma'idati tu'limuni.",
-      "context": "Use this when you have stomach pain."
+      "english": "Can I pay with a credit card?",
+      "arabic": "هل يمكنني الدفع ببطاقة الائتمان؟",
+      "pronunciation": "Hal yumkinuni ad-daf' bibitaaqat al-i'timaan?",
+      "context": "Use this to inquire about payment methods."
     },
     {
-      "english": "I need to see a doctor.",
-      "arabic": "أحتاج إلى رؤية طبيب.",
-      "pronunciation": "Ahtaj ila ru'yat tabeeb.",
-      "context": "Say this when you require medical attention."
+      "english": "Where is the changing room?",
+      "arabic": "أين غرفة القياس؟",
+      "pronunciation": "Ayna ghurfat al-qiyaas?",
+      "context": "Use this when you need to try on clothes before buying."
     }
   ],
   "total": 5
