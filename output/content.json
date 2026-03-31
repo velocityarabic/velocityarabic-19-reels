@@ -1,35 +1,35 @@
 {
-  "category": "التحيات اليومية",
+  "category": "الألوان والأوصاف",
   "phrases": [
     {
-      "english": "Hello, how are you today?",
-      "arabic": "مرحباً، كيف حالك اليوم؟",
-      "pronunciation": "Marhaban, kayfa haluka al-yawm?",
-      "context": "A standard and polite greeting to inquire about someone's well-being."
+      "english": "This shirt is a beautiful blue color.",
+      "arabic": "هذا القميص لونه أزرق جميل.",
+      "pronunciation": "Hadha al-qamees lawnuhu azraq jameel.",
+      "context": "Use this to compliment clothing or other items you find visually appealing."
     },
     {
-      "english": "Good morning, may your morning be blessed.",
-      "arabic": "صباح الخير، صباح النور.",
-      "pronunciation": "Sabah al-khair, sabah al-noor.",
-      "context": "Used to greet someone in the morning, with the second part being a common reply."
+      "english": "The car is black and very fast.",
+      "arabic": "السيارة سوداء وسريعة جداً.",
+      "pronunciation": "Al-sayyarah sawda' wa saree'ah jiddan.",
+      "context": "This phrase is useful for describing vehicles and their performance."
     },
     {
-      "english": "Good evening, may your evening be pleasant.",
-      "arabic": "مساء الخير، مساء النور.",
-      "pronunciation": "Masa' al-khair, masa' al-noor.",
-      "context": "Used to greet someone in the evening, similar to the morning greeting."
+      "english": "I like the green color of the trees.",
+      "arabic": "أحب اللون الأخضر للأشجار.",
+      "pronunciation": "Uhibbu al-lawn al-akhdar lil-ashjar.",
+      "context": "Employ this when you want to express appreciation for nature's colors."
     },
     {
-      "english": "Peace be upon you.",
-      "arabic": "السلام عليكم.",
-      "pronunciation": "As-salamu alaykum.",
-      "context": "A very common and respectful greeting used at any time of day."
+      "english": "Her dress is a lovely shade of red.",
+      "arabic": "فستانها درجة جميلة من اللون الأحمر.",
+      "pronunciation": "Fustanuhā darajah jameelah min al-lawn al-ahmar.",
+      "context": "This is perfect for describing a person's clothing with a specific color."
     },
     {
-      "english": "Goodbye, I will see you later.",
-      "arabic": "إلى اللقاء، أراك لاحقاً.",
-      "pronunciation": "Ila al-liqaa', arak lahiqan.",
-      "context": "A polite way to say farewell when you expect to meet the person again."
+      "english": "The sky is bright yellow during sunset.",
+      "arabic": "السماء صفراء لامعة وقت الغروب.",
+      "pronunciation": "Al-sama' safra' laami'ah waqt al-ghuroob.",
+      "context": "Use this to describe natural phenomena and atmospheric conditions."
     }
   ],
   "total": 5
