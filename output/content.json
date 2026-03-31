@@ -1,35 +1,35 @@
 {
-  "category": "النجاح",
+  "category": "الصحة والجسد",
   "phrases": [
     {
-      "english": "Hello, how are you today?",
-      "arabic": "مرحباً، كيف حالك اليوم؟",
-      "pronunciation": "Marhaban, kayfa haluk al-youm?",
-      "context": "A polite and common greeting to initiate a conversation."
+      "english": "I have a headache.",
+      "arabic": "أنا أشعر بصداع.",
+      "pronunciation": "Ana asha'ur bi sudaa'.",
+      "context": "Use this when you feel pain in your head."
     },
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً على مساعدتك.",
-      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
-      "context": "Expressing gratitude after someone has assisted you."
+      "english": "I feel tired.",
+      "arabic": "أشعر بالتعب.",
+      "pronunciation": "Asha'ur bil ta'ab.",
+      "context": "Say this when you need rest."
     },
     {
-      "english": "I would like to order a cup of coffee.",
-      "arabic": "أود طلب فنجان قهوة.",
-      "pronunciation": "Awad talab finjan qahwa.",
-      "context": "Used when ordering food or drinks in a cafe or restaurant."
+      "english": "I am allergic to peanuts.",
+      "arabic": "لدي حساسية من الفول السوداني.",
+      "pronunciation": "Ladai hasasiyya min al-foul as-soudani.",
+      "context": "Inform others about this food allergy."
     },
     {
-      "english": "Excuse me, where is the bathroom?",
-      "arabic": "عفواً، أين الحمام؟",
-      "pronunciation": "'Afwan, ayna al-hammam?",
-      "context": "Asking for directions to a public restroom."
+      "english": "My stomach hurts.",
+      "arabic": "معدتي تؤلمني.",
+      "pronunciation": "Ma'idati tu'limuni.",
+      "context": "Use this when you have stomach pain."
     },
     {
-      "english": "Goodbye, it was nice meeting you.",
-      "arabic": "مع السلامة، سررت بلقائك.",
-      "pronunciation": "Ma'a as-salama, surirtu bi-liqa'ik.",
-      "context": "A polite way to end an interaction or a visit."
+      "english": "I need to see a doctor.",
+      "arabic": "أحتاج إلى رؤية طبيب.",
+      "pronunciation": "Ahtaj ila ru'yat tabeeb.",
+      "context": "Say this when you require medical attention."
     }
   ],
   "total": 5
