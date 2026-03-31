@@ -1,35 +1,35 @@
 {
-  "category": "التحيات اليومية",
+  "category": "الهوايات والأنشطة",
   "phrases": [
     {
-      "english": "Hello, how are you today?",
-      "arabic": "مرحباً، كيف حالك اليوم؟",
-      "pronunciation": "Marhaban, kayfa haluka al-yawm?",
-      "context": "A standard and polite greeting to inquire about someone's well-being."
+      "english": "I enjoy reading books in my free time.",
+      "arabic": "أنا أستمتع بقراءة الكتب في وقت فراغي.",
+      "pronunciation": "Ana astamti' bi qira'at al-kutub fi waqt faraaghee.",
+      "context": "Use this to talk about a hobby you do when you have spare time."
     },
     {
-      "english": "Good morning, may your morning be blessed.",
-      "arabic": "صباح الخير، صباح النور.",
-      "pronunciation": "Sabah al-khair, sabah al-noor.",
-      "context": "Used to greet someone in the morning, with the second part being a common reply."
+      "english": "My favorite hobby is playing football.",
+      "arabic": "هوايتي المفضلة هي لعب كرة القدم.",
+      "pronunciation": "Hiwaayati al-mufaddalah hiya la'ib kurat al-qadam.",
+      "context": "State your most preferred pastime."
     },
     {
-      "english": "Good evening, may your evening be pleasant.",
-      "arabic": "مساء الخير، مساء النور.",
-      "pronunciation": "Masa' al-khair, masa' al-noor.",
-      "context": "Used to greet someone in the evening, similar to the morning greeting."
+      "english": "I like to travel and explore new places.",
+      "arabic": "أحب السفر واستكشاف الأماكن الجديدة.",
+      "pronunciation": "Uhibbu as-safar wa istikshaaf al-amakin al-jadeedah.",
+      "context": "Describe your passion for visiting different locations."
     },
     {
-      "english": "Peace be upon you.",
-      "arabic": "السلام عليكم.",
-      "pronunciation": "As-salamu alaykum.",
-      "context": "A very common and respectful greeting used at any time of day."
+      "english": "I spend my weekends hiking in the mountains.",
+      "arabic": "أقضي عطلة نهاية الأسبوع في التنزه في الجبال.",
+      "pronunciation": "Aqdee 'utlat nihayat al-usbu' fi at-tanazzuh fi al-jibaal.",
+      "context": "Share how you typically spend your weekends engaging in an activity."
     },
     {
-      "english": "Goodbye, I will see you later.",
-      "arabic": "إلى اللقاء، أراك لاحقاً.",
-      "pronunciation": "Ila al-liqaa', arak lahiqan.",
-      "context": "A polite way to say farewell when you expect to meet the person again."
+      "english": "I love cooking new recipes at home.",
+      "arabic": "أحب طبخ وصفات جديدة في المنزل.",
+      "pronunciation": "Uhibbu tabkh wasafaat jadeedah fi al-manzil.",
+      "context": "Mention an activity you enjoy doing within your own residence."
     }
   ],
   "total": 5
