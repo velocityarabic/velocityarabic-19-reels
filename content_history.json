@@ -104,13 +104,13 @@
     "i would like to order a plate of grilled chicken, please.",
     "this food is very delicious, thank you.",
     "can i have the bill, please?",
-    "what is the specialty of the house?"
+    "what is the specialty of the house?",
+    "good morning, may your morning be blessed.",
+    "good evening, may your evening be pleasant.",
+    "peace be upon you.",
+    "goodbye, i will see you later."
   ],
   "used_categories": [
-    {
-      "category": "الصحة والجسد",
-      "timestamp": "2026-03-21T09:57:03.241006"
-    },
     {
       "category": "الحب",
       "timestamp": "2026-03-21T14:56:52.092893"
@@ -306,6 +306,10 @@
     {
       "category": "الحيوانات",
       "timestamp": "2026-03-31T09:46:39.394295"
+    },
+    {
+      "category": "التحيات اليومية",
+      "timestamp": "2026-03-31T10:38:12.630673"
     }
   ],
   "phrase_hashes": [
@@ -413,6 +417,10 @@
     "fc4aa5e06798c29e041bb46bbc9b46ce",
     "8245a8587aaa4d47232bb0cf0dabec23",
     "d5984b9c6ae553906b9d447468514dd8",
-    "160ff1b26dd9310f2898e4ca366c44f2"
+    "160ff1b26dd9310f2898e4ca366c44f2",
+    "5f1bf2a91c6f408cc0ce38bdf508d02e",
+    "1a50eeb640994766ef390374a63bc2ed",
+    "ce6ba91de2ac1ed6d793c5bf4a60c352",
+    "5ab48ea745b8ded50c34626db3993ce0"
   ]
 }

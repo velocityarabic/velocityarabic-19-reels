@@ -1,35 +1,35 @@
 {
-  "category": "الحيوانات",
+  "category": "التحيات اليومية",
   "phrases": [
     {
-      "english": "I have a cat and a dog at home.",
-      "arabic": "لدي قطة وكلب في المنزل.",
-      "pronunciation": "Ladai qittah wa kalb fil manzil.",
-      "context": "To state the pets you own."
+      "english": "Hello, how are you today?",
+      "arabic": "مرحباً، كيف حالك اليوم؟",
+      "pronunciation": "Marhaban, kayfa haluka al-yawm?",
+      "context": "A standard and polite greeting to inquire about someone's well-being."
     },
     {
-      "english": "The birds are singing beautifully this morning.",
-      "arabic": "الطيور تغرد بشكل جميل هذا الصباح.",
-      "pronunciation": "At-toyūr tugharrid bishakl jameel hadha as-sabah.",
-      "context": "To describe the sounds of birds."
+      "english": "Good morning, may your morning be blessed.",
+      "arabic": "صباح الخير، صباح النور.",
+      "pronunciation": "Sabah al-khair, sabah al-noor.",
+      "context": "Used to greet someone in the morning, with the second part being a common reply."
     },
     {
-      "english": "I love seeing horses run in the field.",
-      "arabic": "أحب رؤية الخيول وهي تركض في الحقل.",
-      "pronunciation": "Uhibbu ru'yatan al-khuyool wa hiya tarkud fil haql.",
-      "context": "To express admiration for horses."
+      "english": "Good evening, may your evening be pleasant.",
+      "arabic": "مساء الخير، مساء النور.",
+      "pronunciation": "Masa' al-khair, masa' al-noor.",
+      "context": "Used to greet someone in the evening, similar to the morning greeting."
     },
     {
-      "english": "Can you see that elephant at the zoo?",
-      "arabic": "هل ترى ذلك الفيل في حديقة الحيوان؟",
-      "pronunciation": "Hal tara thalika al-feel fi hadiqatal hayawan?",
-      "context": "To point out an elephant to someone."
+      "english": "Peace be upon you.",
+      "arabic": "السلام عليكم.",
+      "pronunciation": "As-salamu alaykum.",
+      "context": "A very common and respectful greeting used at any time of day."
     },
     {
-      "english": "My friend is allergic to cats.",
-      "arabic": "صديقي لديه حساسية من القطط.",
-      "pronunciation": "Sadeeqi ladaihi hassasiyyah min al-qitat.",
-      "context": "To inform someone about an allergy to cats."
+      "english": "Goodbye, I will see you later.",
+      "arabic": "إلى اللقاء، أراك لاحقاً.",
+      "pronunciation": "Ila al-liqaa', arak lahiqan.",
+      "context": "A polite way to say farewell when you expect to meet the person again."
     }
   ],
   "total": 5
