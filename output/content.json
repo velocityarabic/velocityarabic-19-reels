@@ -1,35 +1,35 @@
 {
-  "category": "الهوايات والأنشطة",
+  "category": "الحب",
   "phrases": [
     {
-      "english": "I enjoy reading books in my free time.",
-      "arabic": "أنا أستمتع بقراءة الكتب في وقت فراغي.",
-      "pronunciation": "Ana astamti' bi qira'at al-kutub fi waqt faraaghee.",
-      "context": "Use this to talk about a hobby you do when you have spare time."
+      "english": "I love you very much.",
+      "arabic": "أنا أحبك جداً.",
+      "pronunciation": "Ana uhibbuka jiddan.",
+      "context": "Use this to express deep affection to someone you love."
     },
     {
-      "english": "My favorite hobby is playing football.",
-      "arabic": "هوايتي المفضلة هي لعب كرة القدم.",
-      "pronunciation": "Hiwaayati al-mufaddalah hiya la'ib kurat al-qadam.",
-      "context": "State your most preferred pastime."
+      "english": "You are beautiful.",
+      "arabic": "أنتِ جميلة.",
+      "pronunciation": "Anti jameela.",
+      "context": "Say this to compliment a woman's appearance."
     },
     {
-      "english": "I like to travel and explore new places.",
-      "arabic": "أحب السفر واستكشاف الأماكن الجديدة.",
-      "pronunciation": "Uhibbu as-safar wa istikshaaf al-amakin al-jadeedah.",
-      "context": "Describe your passion for visiting different locations."
+      "english": "My heart belongs to you.",
+      "arabic": "قلبي ملكك.",
+      "pronunciation": "Qalbi milkiik.",
+      "context": "A romantic expression to show devotion."
     },
     {
-      "english": "I spend my weekends hiking in the mountains.",
-      "arabic": "أقضي عطلة نهاية الأسبوع في التنزه في الجبال.",
-      "pronunciation": "Aqdee 'utlat nihayat al-usbu' fi at-tanazzuh fi al-jibaal.",
-      "context": "Share how you typically spend your weekends engaging in an activity."
+      "english": "I miss you a lot.",
+      "arabic": "أفتقدك كثيراً.",
+      "pronunciation": "Aftaqiduki katheeran.",
+      "context": "Use when you haven't seen someone you care about for a while."
     },
     {
-      "english": "I love cooking new recipes at home.",
-      "arabic": "أحب طبخ وصفات جديدة في المنزل.",
-      "pronunciation": "Uhibbu tabkh wasafaat jadeedah fi al-manzil.",
-      "context": "Mention an activity you enjoy doing within your own residence."
+      "english": "You are my everything.",
+      "arabic": "أنت كل شيء بالنسبة لي.",
+      "pronunciation": "Anta kullu shay'in bin-nisbati li.",
+      "context": "A strong declaration of how important someone is in your life."
     }
   ],
   "total": 5
