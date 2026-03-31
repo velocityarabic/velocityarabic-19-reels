@@ -1,35 +1,35 @@
 {
-  "category": "الهوايات والأنشطة",
+  "category": "النجاح",
   "phrases": [
     {
-      "english": "I enjoy reading books in my free time.",
-      "arabic": "أنا أستمتع بقراءة الكتب في وقت فراغي.",
-      "pronunciation": "Ana astamti' bi qira'at al-kutub fi waqt faraaghee.",
-      "context": "Use this to talk about a hobby you do when you have spare time."
+      "english": "Hello, how are you today?",
+      "arabic": "مرحباً، كيف حالك اليوم؟",
+      "pronunciation": "Marhaban, kayfa haluk al-youm?",
+      "context": "A polite and common greeting to initiate a conversation."
     },
     {
-      "english": "My favorite hobby is playing football.",
-      "arabic": "هوايتي المفضلة هي لعب كرة القدم.",
-      "pronunciation": "Hiwaayati al-mufaddalah hiya la'ib kurat al-qadam.",
-      "context": "State your most preferred pastime."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً على مساعدتك.",
+      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
+      "context": "Expressing gratitude after someone has assisted you."
     },
     {
-      "english": "I like to travel and explore new places.",
-      "arabic": "أحب السفر واستكشاف الأماكن الجديدة.",
-      "pronunciation": "Uhibbu as-safar wa istikshaaf al-amakin al-jadeedah.",
-      "context": "Describe your passion for visiting different locations."
+      "english": "I would like to order a cup of coffee.",
+      "arabic": "أود طلب فنجان قهوة.",
+      "pronunciation": "Awad talab finjan qahwa.",
+      "context": "Used when ordering food or drinks in a cafe or restaurant."
     },
     {
-      "english": "I spend my weekends hiking in the mountains.",
-      "arabic": "أقضي عطلة نهاية الأسبوع في التنزه في الجبال.",
-      "pronunciation": "Aqdee 'utlat nihayat al-usbu' fi at-tanazzuh fi al-jibaal.",
-      "context": "Share how you typically spend your weekends engaging in an activity."
+      "english": "Excuse me, where is the bathroom?",
+      "arabic": "عفواً، أين الحمام؟",
+      "pronunciation": "'Afwan, ayna al-hammam?",
+      "context": "Asking for directions to a public restroom."
     },
     {
-      "english": "I love cooking new recipes at home.",
-      "arabic": "أحب طبخ وصفات جديدة في المنزل.",
-      "pronunciation": "Uhibbu tabkh wasafaat jadeedah fi al-manzil.",
-      "context": "Mention an activity you enjoy doing within your own residence."
+      "english": "Goodbye, it was nice meeting you.",
+      "arabic": "مع السلامة، سررت بلقائك.",
+      "pronunciation": "Ma'a as-salama, surirtu bi-liqa'ik.",
+      "context": "A polite way to end an interaction or a visit."
     }
   ],
   "total": 5
