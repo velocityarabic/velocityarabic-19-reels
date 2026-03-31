@@ -1,35 +1,35 @@
 {
-  "category": "الصحة والجسد",
+  "category": "العبارات الشائعة",
   "phrases": [
     {
-      "english": "I have a headache.",
-      "arabic": "أنا أشعر بصداع.",
-      "pronunciation": "Ana asha'ur bi sudaa'.",
-      "context": "Use this when you feel pain in your head."
+      "english": "Hello, how are you today?",
+      "arabic": "مرحباً، كيف حالك اليوم؟",
+      "pronunciation": "Marhaban, kayfa haluk al-yawm?",
+      "context": "A polite greeting to inquire about someone's well-being."
     },
     {
-      "english": "I feel tired.",
-      "arabic": "أشعر بالتعب.",
-      "pronunciation": "Asha'ur bil ta'ab.",
-      "context": "Say this when you need rest."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً لك على مساعدتك.",
+      "pronunciation": "Shukran jazeelan lak 'ala musa'adatik.",
+      "context": "Expressing gratitude for assistance received."
     },
     {
-      "english": "I am allergic to peanuts.",
-      "arabic": "لدي حساسية من الفول السوداني.",
-      "pronunciation": "Ladai hasasiyya min al-foul as-soudani.",
-      "context": "Inform others about this food allergy."
+      "english": "Excuse me, where is the train station?",
+      "arabic": "عفواً، أين تقع محطة القطار؟",
+      "pronunciation": "'Afwan, ayn taqa' mahattat al-qitar?",
+      "context": "Asking for directions politely."
     },
     {
-      "english": "My stomach hurts.",
-      "arabic": "معدتي تؤلمني.",
-      "pronunciation": "Ma'idati tu'limuni.",
-      "context": "Use this when you have stomach pain."
+      "english": "I don't understand this word.",
+      "arabic": "أنا لا أفهم هذه الكلمة.",
+      "pronunciation": "Ana la afham hadhihi al-kalimah.",
+      "context": "Indicating a lack of comprehension about a specific term."
     },
     {
-      "english": "I need to see a doctor.",
-      "arabic": "أحتاج إلى رؤية طبيب.",
-      "pronunciation": "Ahtaj ila ru'yat tabeeb.",
-      "context": "Say this when you require medical attention."
+      "english": "Nice to meet you.",
+      "arabic": "تشرفت بلقائك.",
+      "pronunciation": "Tasharraftu biliqa'ik.",
+      "context": "A polite closing remark after being introduced to someone."
     }
   ],
   "total": 5
