@@ -1,35 +1,35 @@
 {
-  "category": "أساسيات السفر",
+  "category": "العواطف والمشاعر",
   "phrases": [
     {
-      "english": "Where is the nearest train station?",
-      "arabic": "أين أقرب محطة قطار؟",
-      "pronunciation": "Ayna aqrab mahattat qitar?",
-      "context": "Use this when you need to find public transportation."
+      "english": "I am very happy today.",
+      "arabic": "أنا سعيد جدًا اليوم.",
+      "pronunciation": "Ana sa'eed jiddan al-yawm.",
+      "context": "Use this when you feel a strong sense of joy."
     },
     {
-      "english": "I would like to book a hotel room for two nights.",
-      "arabic": "أود حجز غرفة فندق لليلتين.",
-      "pronunciation": "Awadd hajz ghurfat funduq lil-laylatayn.",
-      "context": "Say this when you are checking into a hotel."
+      "english": "He looks sad because he misses his family.",
+      "arabic": "يبدو حزينًا لأنه يشتاق لعائلته.",
+      "pronunciation": "Yabdoo hazeenan li'annahu yashtaaqu li'aa'ilatih.",
+      "context": "Describe someone's visible unhappiness and its cause."
     },
     {
-      "english": "How much does this cost?",
-      "arabic": "كم يكلف هذا؟",
-      "pronunciation": "Kam yukallif hatha?",
-      "context": "Ask this when you are shopping or looking at prices."
+      "english": "She is angry about the delayed train.",
+      "arabic": "إنها غاضبة بسبب تأخر القطار.",
+      "pronunciation": "Innaha ghaadibah bisabab ta'akhur al-qitar.",
+      "context": "Explain someone's frustration and the reason for it."
     },
     {
-      "english": "Can you help me please?",
-      "arabic": "هل يمكنك مساعدتي من فضلك؟",
-      "pronunciation": "Hal yumkinuka musa'adati min fadlik?",
-      "context": "Use this when you need assistance from someone."
+      "english": "I feel scared of the loud noise.",
+      "arabic": "أشعر بالخوف من الضوضاء العالية.",
+      "pronunciation": "Ash'uru bil-khawfi min al-dawdaa' al-'aaliyah.",
+      "context": "Express your fear in response to a startling sound."
     },
     {
-      "english": "I am allergic to peanuts.",
-      "arabic": "أنا لدي حساسية من الفول السوداني.",
-      "pronunciation": "Ana ladayya hasasiyyah min al-foul as-sudani.",
-      "context": "Inform restaurant staff about dietary restrictions."
+      "english": "We are excited for our upcoming vacation.",
+      "arabic": "نحن متحمسون لعطلتنا القادمة.",
+      "pronunciation": "Nahnu mutahammisoon li'utlatina al-qaadimah.",
+      "context": "Share your anticipation for a future enjoyable event."
     }
   ],
   "total": 5
