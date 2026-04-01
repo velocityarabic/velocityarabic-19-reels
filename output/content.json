@@ -1,35 +1,35 @@
 {
-  "category": "الحكمة",
+  "category": "العائلة والعلاقات",
   "phrases": [
     {
-      "english": "Patience is a virtue that brings comfort.",
-      "arabic": "الصبر مفتاح الفرج.",
-      "pronunciation": "As-sabru miftaah-ul-faraj.",
-      "context": "Use this when encouraging someone to stay calm during a difficult situation."
+      "english": "My brother is a doctor.",
+      "arabic": "أخي طبيب.",
+      "pronunciation": "Akhi tabeeb.",
+      "context": "Use this to describe your brother's profession."
     },
     {
-      "english": "Actions speak louder than words.",
-      "arabic": "الأفعال أبلغ من الأقوال.",
-      "pronunciation": "Al-af'aalu ablaghu min al-aqwaal.",
-      "context": "Say this when someone's deeds are more meaningful than what they say."
+      "english": "My sister lives in Cairo.",
+      "arabic": "أختي تعيش في القاهرة.",
+      "pronunciation": "Ukhti ta'eeshu fee al-Qahirah.",
+      "context": "Share information about where your sister resides."
     },
     {
-      "english": "Every beginning is difficult.",
-      "arabic": "كل بداية صعبة.",
-      "pronunciation": "Kullu bidaayati-n sa'bah.",
-      "context": "Use this to acknowledge the challenges when starting something new."
+      "english": "I have two children.",
+      "arabic": "لدي طفلان.",
+      "pronunciation": "Ladaiy tiflān.",
+      "context": "State the number of children you have."
     },
     {
-      "english": "Knowledge is power.",
-      "arabic": "العلم نور.",
-      "pronunciation": "Al-'ilmu noor.",
-      "context": "This phrase emphasizes the importance and strength that comes from learning."
+      "english": "My parents are visiting next week.",
+      "arabic": "والداي سيزوران الأسبوع القادم.",
+      "pronunciation": "Waliday sayazooran al-usboo' al-qādim.",
+      "context": "Inform others about your parents' upcoming visit."
     },
     {
-      "english": "Opportunity knocks but once.",
-      "arabic": "الفرصة تأتي مرة واحدة.",
-      "pronunciation": "Al-fursatu ta'ti marratan waahidah.",
-      "context": "Use this to urge someone to seize a good chance when it appears."
+      "english": "My wife is very kind.",
+      "arabic": "زوجتي لطيفة جداً.",
+      "pronunciation": "Zawjati lateefah jiddan.",
+      "context": "Express appreciation for your wife's personality."
     }
   ],
   "total": 5
