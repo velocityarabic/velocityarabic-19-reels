@@ -1,35 +1,35 @@
 {
-  "category": "التحيات اليومية",
+  "category": "العائلة والعلاقات",
   "phrases": [
     {
-      "english": "Hello, how are you today?",
-      "arabic": "مرحباً، كيف حالك اليوم؟",
-      "pronunciation": "Marhaban, kayfa haluka al-yawm?",
-      "context": "A standard and polite greeting to inquire about someone's well-being."
+      "english": "My brother is a doctor.",
+      "arabic": "أخي طبيب.",
+      "pronunciation": "Akhi tabeeb.",
+      "context": "Use this to describe your brother's profession."
     },
     {
-      "english": "Good morning, may your morning be blessed.",
-      "arabic": "صباح الخير، صباح النور.",
-      "pronunciation": "Sabah al-khair, sabah al-noor.",
-      "context": "Used to greet someone in the morning, with the second part being a common reply."
+      "english": "My sister lives in Cairo.",
+      "arabic": "أختي تعيش في القاهرة.",
+      "pronunciation": "Ukhti ta'eeshu fee al-Qahirah.",
+      "context": "Share information about where your sister resides."
     },
     {
-      "english": "Good evening, may your evening be pleasant.",
-      "arabic": "مساء الخير، مساء النور.",
-      "pronunciation": "Masa' al-khair, masa' al-noor.",
-      "context": "Used to greet someone in the evening, similar to the morning greeting."
+      "english": "I have two children.",
+      "arabic": "لدي طفلان.",
+      "pronunciation": "Ladaiy tiflān.",
+      "context": "State the number of children you have."
     },
     {
-      "english": "Peace be upon you.",
-      "arabic": "السلام عليكم.",
-      "pronunciation": "As-salamu alaykum.",
-      "context": "A very common and respectful greeting used at any time of day."
+      "english": "My parents are visiting next week.",
+      "arabic": "والداي سيزوران الأسبوع القادم.",
+      "pronunciation": "Waliday sayazooran al-usboo' al-qādim.",
+      "context": "Inform others about your parents' upcoming visit."
     },
     {
-      "english": "Goodbye, I will see you later.",
-      "arabic": "إلى اللقاء، أراك لاحقاً.",
-      "pronunciation": "Ila al-liqaa', arak lahiqan.",
-      "context": "A polite way to say farewell when you expect to meet the person again."
+      "english": "My wife is very kind.",
+      "arabic": "زوجتي لطيفة جداً.",
+      "pronunciation": "Zawjati lateefah jiddan.",
+      "context": "Express appreciation for your wife's personality."
     }
   ],
   "total": 5
