@@ -1,35 +1,35 @@
 {
-  "category": "التحيات اليومية",
+  "category": "العبارات الشائعة",
   "phrases": [
     {
       "english": "Hello, how are you today?",
       "arabic": "مرحباً، كيف حالك اليوم؟",
-      "pronunciation": "Marhaban, kayfa haluka al-yawm?",
-      "context": "A standard and polite greeting to inquire about someone's well-being."
+      "pronunciation": "Marhaban, kayfa haluk al-yawm?",
+      "context": "A polite greeting to inquire about someone's well-being."
     },
     {
-      "english": "Good morning, may your morning be blessed.",
-      "arabic": "صباح الخير، صباح النور.",
-      "pronunciation": "Sabah al-khair, sabah al-noor.",
-      "context": "Used to greet someone in the morning, with the second part being a common reply."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً لك على مساعدتك.",
+      "pronunciation": "Shukran jazeelan lak 'ala musa'adatik.",
+      "context": "Expressing gratitude for assistance received."
     },
     {
-      "english": "Good evening, may your evening be pleasant.",
-      "arabic": "مساء الخير، مساء النور.",
-      "pronunciation": "Masa' al-khair, masa' al-noor.",
-      "context": "Used to greet someone in the evening, similar to the morning greeting."
+      "english": "Excuse me, where is the train station?",
+      "arabic": "عفواً، أين تقع محطة القطار؟",
+      "pronunciation": "'Afwan, ayn taqa' mahattat al-qitar?",
+      "context": "Asking for directions politely."
     },
     {
-      "english": "Peace be upon you.",
-      "arabic": "السلام عليكم.",
-      "pronunciation": "As-salamu alaykum.",
-      "context": "A very common and respectful greeting used at any time of day."
+      "english": "I don't understand this word.",
+      "arabic": "أنا لا أفهم هذه الكلمة.",
+      "pronunciation": "Ana la afham hadhihi al-kalimah.",
+      "context": "Indicating a lack of comprehension about a specific term."
     },
     {
-      "english": "Goodbye, I will see you later.",
-      "arabic": "إلى اللقاء، أراك لاحقاً.",
-      "pronunciation": "Ila al-liqaa', arak lahiqan.",
-      "context": "A polite way to say farewell when you expect to meet the person again."
+      "english": "Nice to meet you.",
+      "arabic": "تشرفت بلقائك.",
+      "pronunciation": "Tasharraftu biliqa'ik.",
+      "context": "A polite closing remark after being introduced to someone."
     }
   ],
   "total": 5
