@@ -1,35 +1,35 @@
 {
-  "category": "الحيوانات",
+  "category": "الحكمة",
   "phrases": [
     {
-      "english": "I have a cat and a dog at home.",
-      "arabic": "لدي قطة وكلب في المنزل.",
-      "pronunciation": "Ladai qittah wa kalb fil manzil.",
-      "context": "To state the pets you own."
+      "english": "Patience is a virtue that brings comfort.",
+      "arabic": "الصبر مفتاح الفرج.",
+      "pronunciation": "As-sabru miftaah-ul-faraj.",
+      "context": "Use this when encouraging someone to stay calm during a difficult situation."
     },
     {
-      "english": "The birds are singing beautifully this morning.",
-      "arabic": "الطيور تغرد بشكل جميل هذا الصباح.",
-      "pronunciation": "At-toyūr tugharrid bishakl jameel hadha as-sabah.",
-      "context": "To describe the sounds of birds."
+      "english": "Actions speak louder than words.",
+      "arabic": "الأفعال أبلغ من الأقوال.",
+      "pronunciation": "Al-af'aalu ablaghu min al-aqwaal.",
+      "context": "Say this when someone's deeds are more meaningful than what they say."
     },
     {
-      "english": "I love seeing horses run in the field.",
-      "arabic": "أحب رؤية الخيول وهي تركض في الحقل.",
-      "pronunciation": "Uhibbu ru'yatan al-khuyool wa hiya tarkud fil haql.",
-      "context": "To express admiration for horses."
+      "english": "Every beginning is difficult.",
+      "arabic": "كل بداية صعبة.",
+      "pronunciation": "Kullu bidaayati-n sa'bah.",
+      "context": "Use this to acknowledge the challenges when starting something new."
     },
     {
-      "english": "Can you see that elephant at the zoo?",
-      "arabic": "هل ترى ذلك الفيل في حديقة الحيوان؟",
-      "pronunciation": "Hal tara thalika al-feel fi hadiqatal hayawan?",
-      "context": "To point out an elephant to someone."
+      "english": "Knowledge is power.",
+      "arabic": "العلم نور.",
+      "pronunciation": "Al-'ilmu noor.",
+      "context": "This phrase emphasizes the importance and strength that comes from learning."
     },
     {
-      "english": "My friend is allergic to cats.",
-      "arabic": "صديقي لديه حساسية من القطط.",
-      "pronunciation": "Sadeeqi ladaihi hassasiyyah min al-qitat.",
-      "context": "To inform someone about an allergy to cats."
+      "english": "Opportunity knocks but once.",
+      "arabic": "الفرصة تأتي مرة واحدة.",
+      "pronunciation": "Al-fursatu ta'ti marratan waahidah.",
+      "context": "Use this to urge someone to seize a good chance when it appears."
     }
   ],
   "total": 5
