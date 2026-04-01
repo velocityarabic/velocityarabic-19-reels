@@ -1,35 +1,35 @@
 {
-  "category": "الطعام والطعام",
+  "category": "التسوق",
   "phrases": [
     {
-      "english": "I would like to order a plate of grilled chicken, please.",
-      "arabic": "أرغب في طلب طبق دجاج مشوي، من فضلك.",
-      "pronunciation": "Arghab fi talab tabaq dajaj mashwi, min fadlik.",
-      "context": "Use this when ordering food at a restaurant."
+      "english": "How much does this cost?",
+      "arabic": "بكم هذا؟",
+      "pronunciation": "Bikam hatha?",
+      "context": "Use this when you want to ask the price of an item."
     },
     {
-      "english": "This food is very delicious, thank you.",
-      "arabic": "هذا الطعام لذيذ جداً، شكراً لكم.",
-      "pronunciation": "Hatha at-ta'am ladheedh jiddan, shukran lakum.",
-      "context": "Say this to compliment the chef or the server on the meal."
+      "english": "I want to buy this shirt.",
+      "arabic": "أريد شراء هذه القميص.",
+      "pronunciation": "Ureed shiraa' hathihi al-qamees.",
+      "context": "Use this when you have decided to purchase a specific item."
     },
     {
-      "english": "Can I have the bill, please?",
-      "arabic": "هل يمكنني الحصول على الفاتورة، من فضلك؟",
-      "pronunciation": "Hal yumkinuni al-husool ala al-fatoorah, min fadlik?",
-      "context": "Use this to ask for the check at the end of your meal."
+      "english": "Do you have this in a smaller size?",
+      "arabic": "هل لديكم هذا بمقاس أصغر؟",
+      "pronunciation": "Hal ladaykum hatha bimqaas asghar?",
+      "context": "Use this when the item is too big and you need a different size."
     },
     {
-      "english": "I am allergic to peanuts.",
-      "arabic": "أنا لدي حساسية من الفول السوداني.",
-      "pronunciation": "Ana ladayya hasasiyya min al-foul as-sudani.",
-      "context": "Inform your server about any food allergies before ordering."
+      "english": "Can I pay with a credit card?",
+      "arabic": "هل يمكنني الدفع ببطاقة الائتمان؟",
+      "pronunciation": "Hal yumkinuni ad-daf' bibitaaqat al-i'timaan?",
+      "context": "Use this to inquire about payment methods."
     },
     {
-      "english": "What is the specialty of the house?",
-      "arabic": "ما هو تخصص المطعم؟",
-      "pronunciation": "Ma huwa takhassus al-mat'am?",
-      "context": "Ask this to inquire about the restaurant's signature dishes."
+      "english": "Where is the changing room?",
+      "arabic": "أين غرفة القياس؟",
+      "pronunciation": "Ayna ghurfat al-qiyaas?",
+      "context": "Use this when you need to try on clothes before buying."
     }
   ],
   "total": 5
