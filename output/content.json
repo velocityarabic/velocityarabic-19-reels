@@ -1,35 +1,35 @@
 {
-  "category": "التسوق",
+  "category": "الحيوانات",
   "phrases": [
     {
-      "english": "How much does this cost?",
-      "arabic": "بكم هذا؟",
-      "pronunciation": "Bikam hatha?",
-      "context": "Use this when you want to ask the price of an item."
+      "english": "I have a cat and a dog at home.",
+      "arabic": "لدي قطة وكلب في المنزل.",
+      "pronunciation": "Ladai qittah wa kalb fil manzil.",
+      "context": "To state the pets you own."
     },
     {
-      "english": "I want to buy this shirt.",
-      "arabic": "أريد شراء هذه القميص.",
-      "pronunciation": "Ureed shiraa' hathihi al-qamees.",
-      "context": "Use this when you have decided to purchase a specific item."
+      "english": "The birds are singing beautifully this morning.",
+      "arabic": "الطيور تغرد بشكل جميل هذا الصباح.",
+      "pronunciation": "At-toyūr tugharrid bishakl jameel hadha as-sabah.",
+      "context": "To describe the sounds of birds."
     },
     {
-      "english": "Do you have this in a smaller size?",
-      "arabic": "هل لديكم هذا بمقاس أصغر؟",
-      "pronunciation": "Hal ladaykum hatha bimqaas asghar?",
-      "context": "Use this when the item is too big and you need a different size."
+      "english": "I love seeing horses run in the field.",
+      "arabic": "أحب رؤية الخيول وهي تركض في الحقل.",
+      "pronunciation": "Uhibbu ru'yatan al-khuyool wa hiya tarkud fil haql.",
+      "context": "To express admiration for horses."
     },
     {
-      "english": "Can I pay with a credit card?",
-      "arabic": "هل يمكنني الدفع ببطاقة الائتمان؟",
-      "pronunciation": "Hal yumkinuni ad-daf' bibitaaqat al-i'timaan?",
-      "context": "Use this to inquire about payment methods."
+      "english": "Can you see that elephant at the zoo?",
+      "arabic": "هل ترى ذلك الفيل في حديقة الحيوان؟",
+      "pronunciation": "Hal tara thalika al-feel fi hadiqatal hayawan?",
+      "context": "To point out an elephant to someone."
     },
     {
-      "english": "Where is the changing room?",
-      "arabic": "أين غرفة القياس؟",
-      "pronunciation": "Ayna ghurfat al-qiyaas?",
-      "context": "Use this when you need to try on clothes before buying."
+      "english": "My friend is allergic to cats.",
+      "arabic": "صديقي لديه حساسية من القطط.",
+      "pronunciation": "Sadeeqi ladaihi hassasiyyah min al-qitat.",
+      "context": "To inform someone about an allergy to cats."
     }
   ],
   "total": 5
