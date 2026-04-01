@@ -1,35 +1,35 @@
 {
-  "category": "الحكمة",
+  "category": "التحيات اليومية",
   "phrases": [
     {
-      "english": "Patience is a virtue that brings comfort.",
-      "arabic": "الصبر مفتاح الفرج.",
-      "pronunciation": "As-sabru miftaah-ul-faraj.",
-      "context": "Use this when encouraging someone to stay calm during a difficult situation."
+      "english": "Hello, how are you today?",
+      "arabic": "مرحباً، كيف حالك اليوم؟",
+      "pronunciation": "Marhaban, kayfa haluka al-yawm?",
+      "context": "A standard and polite greeting to inquire about someone's well-being."
     },
     {
-      "english": "Actions speak louder than words.",
-      "arabic": "الأفعال أبلغ من الأقوال.",
-      "pronunciation": "Al-af'aalu ablaghu min al-aqwaal.",
-      "context": "Say this when someone's deeds are more meaningful than what they say."
+      "english": "Good morning, may your morning be blessed.",
+      "arabic": "صباح الخير، صباح النور.",
+      "pronunciation": "Sabah al-khair, sabah al-noor.",
+      "context": "Used to greet someone in the morning, with the second part being a common reply."
     },
     {
-      "english": "Every beginning is difficult.",
-      "arabic": "كل بداية صعبة.",
-      "pronunciation": "Kullu bidaayati-n sa'bah.",
-      "context": "Use this to acknowledge the challenges when starting something new."
+      "english": "Good evening, may your evening be pleasant.",
+      "arabic": "مساء الخير، مساء النور.",
+      "pronunciation": "Masa' al-khair, masa' al-noor.",
+      "context": "Used to greet someone in the evening, similar to the morning greeting."
     },
     {
-      "english": "Knowledge is power.",
-      "arabic": "العلم نور.",
-      "pronunciation": "Al-'ilmu noor.",
-      "context": "This phrase emphasizes the importance and strength that comes from learning."
+      "english": "Peace be upon you.",
+      "arabic": "السلام عليكم.",
+      "pronunciation": "As-salamu alaykum.",
+      "context": "A very common and respectful greeting used at any time of day."
     },
     {
-      "english": "Opportunity knocks but once.",
-      "arabic": "الفرصة تأتي مرة واحدة.",
-      "pronunciation": "Al-fursatu ta'ti marratan waahidah.",
-      "context": "Use this to urge someone to seize a good chance when it appears."
+      "english": "Goodbye, I will see you later.",
+      "arabic": "إلى اللقاء، أراك لاحقاً.",
+      "pronunciation": "Ila al-liqaa', arak lahiqan.",
+      "context": "A polite way to say farewell when you expect to meet the person again."
     }
   ],
   "total": 5
