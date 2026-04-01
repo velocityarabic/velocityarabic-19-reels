@@ -1,35 +1,35 @@
 {
-  "category": "العبارات الشائعة",
+  "category": "الألوان والأوصاف",
   "phrases": [
     {
-      "english": "Hello, how are you today?",
-      "arabic": "مرحباً، كيف حالك اليوم؟",
-      "pronunciation": "Marhaban, kayfa haluk al-yawm?",
-      "context": "A polite greeting to inquire about someone's well-being."
+      "english": "This shirt is a beautiful blue color.",
+      "arabic": "هذا القميص لونه أزرق جميل.",
+      "pronunciation": "Hadha al-qamees lawnuhu azraq jameel.",
+      "context": "Use this to compliment clothing or other items you find visually appealing."
     },
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً لك على مساعدتك.",
-      "pronunciation": "Shukran jazeelan lak 'ala musa'adatik.",
-      "context": "Expressing gratitude for assistance received."
+      "english": "The car is black and very fast.",
+      "arabic": "السيارة سوداء وسريعة جداً.",
+      "pronunciation": "Al-sayyarah sawda' wa saree'ah jiddan.",
+      "context": "This phrase is useful for describing vehicles and their performance."
     },
     {
-      "english": "Excuse me, where is the train station?",
-      "arabic": "عفواً، أين تقع محطة القطار؟",
-      "pronunciation": "'Afwan, ayn taqa' mahattat al-qitar?",
-      "context": "Asking for directions politely."
+      "english": "I like the green color of the trees.",
+      "arabic": "أحب اللون الأخضر للأشجار.",
+      "pronunciation": "Uhibbu al-lawn al-akhdar lil-ashjar.",
+      "context": "Employ this when you want to express appreciation for nature's colors."
     },
     {
-      "english": "I don't understand this word.",
-      "arabic": "أنا لا أفهم هذه الكلمة.",
-      "pronunciation": "Ana la afham hadhihi al-kalimah.",
-      "context": "Indicating a lack of comprehension about a specific term."
+      "english": "Her dress is a lovely shade of red.",
+      "arabic": "فستانها درجة جميلة من اللون الأحمر.",
+      "pronunciation": "Fustanuhā darajah jameelah min al-lawn al-ahmar.",
+      "context": "This is perfect for describing a person's clothing with a specific color."
     },
     {
-      "english": "Nice to meet you.",
-      "arabic": "تشرفت بلقائك.",
-      "pronunciation": "Tasharraftu biliqa'ik.",
-      "context": "A polite closing remark after being introduced to someone."
+      "english": "The sky is bright yellow during sunset.",
+      "arabic": "السماء صفراء لامعة وقت الغروب.",
+      "pronunciation": "Al-sama' safra' laami'ah waqt al-ghuroob.",
+      "context": "Use this to describe natural phenomena and atmospheric conditions."
     }
   ],
   "total": 5
