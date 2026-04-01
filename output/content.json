@@ -1,35 +1,35 @@
 {
-  "category": "النجاح",
+  "category": "التحيات اليومية",
   "phrases": [
     {
       "english": "Hello, how are you today?",
       "arabic": "مرحباً، كيف حالك اليوم؟",
-      "pronunciation": "Marhaban, kayfa haluk al-youm?",
-      "context": "A polite and common greeting to initiate a conversation."
+      "pronunciation": "Marhaban, kayfa haluka al-yawm?",
+      "context": "A standard and polite greeting to inquire about someone's well-being."
     },
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً على مساعدتك.",
-      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
-      "context": "Expressing gratitude after someone has assisted you."
+      "english": "Good morning, may your morning be blessed.",
+      "arabic": "صباح الخير، صباح النور.",
+      "pronunciation": "Sabah al-khair, sabah al-noor.",
+      "context": "Used to greet someone in the morning, with the second part being a common reply."
     },
     {
-      "english": "I would like to order a cup of coffee.",
-      "arabic": "أود طلب فنجان قهوة.",
-      "pronunciation": "Awad talab finjan qahwa.",
-      "context": "Used when ordering food or drinks in a cafe or restaurant."
+      "english": "Good evening, may your evening be pleasant.",
+      "arabic": "مساء الخير، مساء النور.",
+      "pronunciation": "Masa' al-khair, masa' al-noor.",
+      "context": "Used to greet someone in the evening, similar to the morning greeting."
     },
     {
-      "english": "Excuse me, where is the bathroom?",
-      "arabic": "عفواً، أين الحمام؟",
-      "pronunciation": "'Afwan, ayna al-hammam?",
-      "context": "Asking for directions to a public restroom."
+      "english": "Peace be upon you.",
+      "arabic": "السلام عليكم.",
+      "pronunciation": "As-salamu alaykum.",
+      "context": "A very common and respectful greeting used at any time of day."
     },
     {
-      "english": "Goodbye, it was nice meeting you.",
-      "arabic": "مع السلامة، سررت بلقائك.",
-      "pronunciation": "Ma'a as-salama, surirtu bi-liqa'ik.",
-      "context": "A polite way to end an interaction or a visit."
+      "english": "Goodbye, I will see you later.",
+      "arabic": "إلى اللقاء، أراك لاحقاً.",
+      "pronunciation": "Ila al-liqaa', arak lahiqan.",
+      "context": "A polite way to say farewell when you expect to meet the person again."
     }
   ],
   "total": 5
