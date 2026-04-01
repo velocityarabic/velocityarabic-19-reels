@@ -1,35 +1,35 @@
 {
-  "category": "العمل والأعمال",
+  "category": "النجاح",
   "phrases": [
     {
-      "english": "I am looking for a new job opportunity.",
-      "arabic": "أنا أبحث عن فرصة عمل جديدة.",
-      "pronunciation": "Ana abHath 'an furSa 'amal jadeeda.",
-      "context": "Use this when you are actively seeking employment."
+      "english": "Hello, how are you today?",
+      "arabic": "مرحباً، كيف حالك اليوم؟",
+      "pronunciation": "Marhaban, kayfa haluk al-youm?",
+      "context": "A polite and common greeting to initiate a conversation."
     },
     {
-      "english": "What are your working hours?",
-      "arabic": "ما هي ساعات عملك؟",
-      "pronunciation": "Ma hiya saa'aat 'amalak?",
-      "context": "Inquire about the typical daily schedule at a workplace."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً على مساعدتك.",
+      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
+      "context": "Expressing gratitude after someone has assisted you."
     },
     {
-      "english": "This project requires a lot of effort.",
-      "arabic": "هذا المشروع يتطلب الكثير من الجهد.",
-      "pronunciation": "Hatha al-mashroo' yatatallab al-katheer min al-juhd.",
-      "context": "Describe a task that demands significant work."
+      "english": "I would like to order a cup of coffee.",
+      "arabic": "أود طلب فنجان قهوة.",
+      "pronunciation": "Awad talab finjan qahwa.",
+      "context": "Used when ordering food or drinks in a cafe or restaurant."
     },
     {
-      "english": "I need to schedule a meeting with the manager.",
-      "arabic": "أحتاج إلى تحديد موعد اجتماع مع المدير.",
-      "pronunciation": "AHTaaj ila taHdeed maw'id ijtimaa' ma'a al-mudeer.",
-      "context": "Arrange a formal discussion with your supervisor."
+      "english": "Excuse me, where is the bathroom?",
+      "arabic": "عفواً، أين الحمام؟",
+      "pronunciation": "'Afwan, ayna al-hammam?",
+      "context": "Asking for directions to a public restroom."
     },
     {
-      "english": "Our company has a great team.",
-      "arabic": "شركتنا لديها فريق رائع.",
-      "pronunciation": "Sharikatuna ladayha fareeq raa'i'.",
-      "context": "Praise the collaborative spirit of your colleagues."
+      "english": "Goodbye, it was nice meeting you.",
+      "arabic": "مع السلامة، سررت بلقائك.",
+      "pronunciation": "Ma'a as-salama, surirtu bi-liqa'ik.",
+      "context": "A polite way to end an interaction or a visit."
     }
   ],
   "total": 5
