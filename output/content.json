@@ -1,35 +1,35 @@
 {
-  "category": "الدافع",
+  "category": "أساسيات السفر",
   "phrases": [
     {
-      "english": "I want to learn Arabic very much.",
-      "arabic": "أريد أن أتعلم اللغة العربية كثيرًا.",
-      "pronunciation": "Ureed an ata'allam al-lughah al-'arabiyyah katheeran.",
-      "context": "Use this to express your strong desire to study the Arabic language."
+      "english": "Where is the nearest train station?",
+      "arabic": "أين أقرب محطة قطار؟",
+      "pronunciation": "Ayna aqrab mahattat qitar?",
+      "context": "Use this when you need to find public transportation."
     },
     {
-      "english": "This Arabic word is difficult for me.",
-      "arabic": "هذه الكلمة العربية صعبة بالنسبة لي.",
-      "pronunciation": "Hadhihi al-kalimah al-'arabiyyah sa'bah bil-nisbah li.",
-      "context": "Use this when you find a specific Arabic word challenging to understand or pronounce."
+      "english": "I would like to book a hotel room for two nights.",
+      "arabic": "أود حجز غرفة فندق لليلتين.",
+      "pronunciation": "Awadd hajz ghurfat funduq lil-laylatayn.",
+      "context": "Say this when you are checking into a hotel."
     },
     {
-      "english": "I practice speaking Arabic every day.",
-      "arabic": "أمارس التحدث باللغة العربية كل يوم.",
-      "pronunciation": "Umaarisu al-tahadduth bil-lughah al-'arabiyyah kull yawm.",
-      "context": "Use this to communicate your dedication to practicing Arabic conversation regularly."
+      "english": "How much does this cost?",
+      "arabic": "كم يكلف هذا؟",
+      "pronunciation": "Kam yukallif hatha?",
+      "context": "Ask this when you are shopping or looking at prices."
     },
     {
-      "english": "Learning Arabic opens many doors for me.",
-      "arabic": "تعلم اللغة العربية يفتح لي أبوابًا كثيرة.",
-      "pronunciation": "Ta'allum al-lughah al-'arabiyyah yaftahu li abwaaban katheerah.",
-      "context": "Use this to describe the opportunities that learning Arabic provides."
+      "english": "Can you help me please?",
+      "arabic": "هل يمكنك مساعدتي من فضلك؟",
+      "pronunciation": "Hal yumkinuka musa'adati min fadlik?",
+      "context": "Use this when you need assistance from someone."
     },
     {
-      "english": "I am motivated by the rich culture of Arabic-speaking countries.",
-      "arabic": "أنا متحمس للثقافة الغنية للدول العربية.",
-      "pronunciation": "Ana mutahammis lil-thaqafah al-ghaniyyah lil-duwal al-'arabiyyah.",
-      "context": "Use this to explain what drives your motivation to learn Arabic."
+      "english": "I am allergic to peanuts.",
+      "arabic": "أنا لدي حساسية من الفول السوداني.",
+      "pronunciation": "Ana ladayya hasasiyyah min al-foul as-sudani.",
+      "context": "Inform restaurant staff about dietary restrictions."
     }
   ],
   "total": 5
