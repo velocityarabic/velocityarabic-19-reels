@@ -1,35 +1,35 @@
 {
-  "category": "العائلة والعلاقات",
+  "category": "الدافع",
   "phrases": [
     {
-      "english": "My brother is a doctor.",
-      "arabic": "أخي طبيب.",
-      "pronunciation": "Akhi tabeeb.",
-      "context": "Use this to describe your brother's profession."
+      "english": "I want to learn Arabic very much.",
+      "arabic": "أريد أن أتعلم اللغة العربية كثيرًا.",
+      "pronunciation": "Ureed an ata'allam al-lughah al-'arabiyyah katheeran.",
+      "context": "Use this to express your strong desire to study the Arabic language."
     },
     {
-      "english": "My sister lives in Cairo.",
-      "arabic": "أختي تعيش في القاهرة.",
-      "pronunciation": "Ukhti ta'eeshu fee al-Qahirah.",
-      "context": "Share information about where your sister resides."
+      "english": "This Arabic word is difficult for me.",
+      "arabic": "هذه الكلمة العربية صعبة بالنسبة لي.",
+      "pronunciation": "Hadhihi al-kalimah al-'arabiyyah sa'bah bil-nisbah li.",
+      "context": "Use this when you find a specific Arabic word challenging to understand or pronounce."
     },
     {
-      "english": "I have two children.",
-      "arabic": "لدي طفلان.",
-      "pronunciation": "Ladaiy tiflān.",
-      "context": "State the number of children you have."
+      "english": "I practice speaking Arabic every day.",
+      "arabic": "أمارس التحدث باللغة العربية كل يوم.",
+      "pronunciation": "Umaarisu al-tahadduth bil-lughah al-'arabiyyah kull yawm.",
+      "context": "Use this to communicate your dedication to practicing Arabic conversation regularly."
     },
     {
-      "english": "My parents are visiting next week.",
-      "arabic": "والداي سيزوران الأسبوع القادم.",
-      "pronunciation": "Waliday sayazooran al-usboo' al-qādim.",
-      "context": "Inform others about your parents' upcoming visit."
+      "english": "Learning Arabic opens many doors for me.",
+      "arabic": "تعلم اللغة العربية يفتح لي أبوابًا كثيرة.",
+      "pronunciation": "Ta'allum al-lughah al-'arabiyyah yaftahu li abwaaban katheerah.",
+      "context": "Use this to describe the opportunities that learning Arabic provides."
     },
     {
-      "english": "My wife is very kind.",
-      "arabic": "زوجتي لطيفة جداً.",
-      "pronunciation": "Zawjati lateefah jiddan.",
-      "context": "Express appreciation for your wife's personality."
+      "english": "I am motivated by the rich culture of Arabic-speaking countries.",
+      "arabic": "أنا متحمس للثقافة الغنية للدول العربية.",
+      "pronunciation": "Ana mutahammis lil-thaqafah al-ghaniyyah lil-duwal al-'arabiyyah.",
+      "context": "Use this to explain what drives your motivation to learn Arabic."
     }
   ],
   "total": 5
