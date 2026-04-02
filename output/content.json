@@ -1,35 +1,35 @@
 {
-  "category": "العائلة والعلاقات",
+  "category": "العواطف والمشاعر",
   "phrases": [
     {
-      "english": "My brother is a doctor.",
-      "arabic": "أخي طبيب.",
-      "pronunciation": "Akhi tabeeb.",
-      "context": "Use this to describe your brother's profession."
+      "english": "I am very happy today.",
+      "arabic": "أنا سعيد جدًا اليوم.",
+      "pronunciation": "Ana sa'eed jiddan al-yawm.",
+      "context": "Use this when you feel a strong sense of joy."
     },
     {
-      "english": "My sister lives in Cairo.",
-      "arabic": "أختي تعيش في القاهرة.",
-      "pronunciation": "Ukhti ta'eeshu fee al-Qahirah.",
-      "context": "Share information about where your sister resides."
+      "english": "He looks sad because he misses his family.",
+      "arabic": "يبدو حزينًا لأنه يشتاق لعائلته.",
+      "pronunciation": "Yabdoo hazeenan li'annahu yashtaaqu li'aa'ilatih.",
+      "context": "Describe someone's visible unhappiness and its cause."
     },
     {
-      "english": "I have two children.",
-      "arabic": "لدي طفلان.",
-      "pronunciation": "Ladaiy tiflān.",
-      "context": "State the number of children you have."
+      "english": "She is angry about the delayed train.",
+      "arabic": "إنها غاضبة بسبب تأخر القطار.",
+      "pronunciation": "Innaha ghaadibah bisabab ta'akhur al-qitar.",
+      "context": "Explain someone's frustration and the reason for it."
     },
     {
-      "english": "My parents are visiting next week.",
-      "arabic": "والداي سيزوران الأسبوع القادم.",
-      "pronunciation": "Waliday sayazooran al-usboo' al-qādim.",
-      "context": "Inform others about your parents' upcoming visit."
+      "english": "I feel scared of the loud noise.",
+      "arabic": "أشعر بالخوف من الضوضاء العالية.",
+      "pronunciation": "Ash'uru bil-khawfi min al-dawdaa' al-'aaliyah.",
+      "context": "Express your fear in response to a startling sound."
     },
     {
-      "english": "My wife is very kind.",
-      "arabic": "زوجتي لطيفة جداً.",
-      "pronunciation": "Zawjati lateefah jiddan.",
-      "context": "Express appreciation for your wife's personality."
+      "english": "We are excited for our upcoming vacation.",
+      "arabic": "نحن متحمسون لعطلتنا القادمة.",
+      "pronunciation": "Nahnu mutahammisoon li'utlatina al-qaadimah.",
+      "context": "Share your anticipation for a future enjoyable event."
     }
   ],
   "total": 5
