@@ -1,35 +1,35 @@
 {
-  "category": "العائلة والعلاقات",
+  "category": "النجاح",
   "phrases": [
     {
-      "english": "My brother is a doctor.",
-      "arabic": "أخي طبيب.",
-      "pronunciation": "Akhi tabeeb.",
-      "context": "Use this to describe your brother's profession."
+      "english": "Hello, how are you today?",
+      "arabic": "مرحباً، كيف حالك اليوم؟",
+      "pronunciation": "Marhaban, kayfa haluk al-youm?",
+      "context": "A polite and common greeting to initiate a conversation."
     },
     {
-      "english": "My sister lives in Cairo.",
-      "arabic": "أختي تعيش في القاهرة.",
-      "pronunciation": "Ukhti ta'eeshu fee al-Qahirah.",
-      "context": "Share information about where your sister resides."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً على مساعدتك.",
+      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
+      "context": "Expressing gratitude after someone has assisted you."
     },
     {
-      "english": "I have two children.",
-      "arabic": "لدي طفلان.",
-      "pronunciation": "Ladaiy tiflān.",
-      "context": "State the number of children you have."
+      "english": "I would like to order a cup of coffee.",
+      "arabic": "أود طلب فنجان قهوة.",
+      "pronunciation": "Awad talab finjan qahwa.",
+      "context": "Used when ordering food or drinks in a cafe or restaurant."
     },
     {
-      "english": "My parents are visiting next week.",
-      "arabic": "والداي سيزوران الأسبوع القادم.",
-      "pronunciation": "Waliday sayazooran al-usboo' al-qādim.",
-      "context": "Inform others about your parents' upcoming visit."
+      "english": "Excuse me, where is the bathroom?",
+      "arabic": "عفواً، أين الحمام؟",
+      "pronunciation": "'Afwan, ayna al-hammam?",
+      "context": "Asking for directions to a public restroom."
     },
     {
-      "english": "My wife is very kind.",
-      "arabic": "زوجتي لطيفة جداً.",
-      "pronunciation": "Zawjati lateefah jiddan.",
-      "context": "Express appreciation for your wife's personality."
+      "english": "Goodbye, it was nice meeting you.",
+      "arabic": "مع السلامة، سررت بلقائك.",
+      "pronunciation": "Ma'a as-salama, surirtu bi-liqa'ik.",
+      "context": "A polite way to end an interaction or a visit."
     }
   ],
   "total": 5
