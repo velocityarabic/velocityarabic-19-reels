@@ -1,35 +1,35 @@
 {
-  "category": "الهوايات والأنشطة",
+  "category": "العائلة والعلاقات",
   "phrases": [
     {
-      "english": "I enjoy reading books in my free time.",
-      "arabic": "أنا أستمتع بقراءة الكتب في وقت فراغي.",
-      "pronunciation": "Ana astamti' bi qira'at al-kutub fi waqt faraaghee.",
-      "context": "Use this to talk about a hobby you do when you have spare time."
+      "english": "My brother is a doctor.",
+      "arabic": "أخي طبيب.",
+      "pronunciation": "Akhi tabeeb.",
+      "context": "Use this to describe your brother's profession."
     },
     {
-      "english": "My favorite hobby is playing football.",
-      "arabic": "هوايتي المفضلة هي لعب كرة القدم.",
-      "pronunciation": "Hiwaayati al-mufaddalah hiya la'ib kurat al-qadam.",
-      "context": "State your most preferred pastime."
+      "english": "My sister lives in Cairo.",
+      "arabic": "أختي تعيش في القاهرة.",
+      "pronunciation": "Ukhti ta'eeshu fee al-Qahirah.",
+      "context": "Share information about where your sister resides."
     },
     {
-      "english": "I like to travel and explore new places.",
-      "arabic": "أحب السفر واستكشاف الأماكن الجديدة.",
-      "pronunciation": "Uhibbu as-safar wa istikshaaf al-amakin al-jadeedah.",
-      "context": "Describe your passion for visiting different locations."
+      "english": "I have two children.",
+      "arabic": "لدي طفلان.",
+      "pronunciation": "Ladaiy tiflān.",
+      "context": "State the number of children you have."
     },
     {
-      "english": "I spend my weekends hiking in the mountains.",
-      "arabic": "أقضي عطلة نهاية الأسبوع في التنزه في الجبال.",
-      "pronunciation": "Aqdee 'utlat nihayat al-usbu' fi at-tanazzuh fi al-jibaal.",
-      "context": "Share how you typically spend your weekends engaging in an activity."
+      "english": "My parents are visiting next week.",
+      "arabic": "والداي سيزوران الأسبوع القادم.",
+      "pronunciation": "Waliday sayazooran al-usboo' al-qādim.",
+      "context": "Inform others about your parents' upcoming visit."
     },
     {
-      "english": "I love cooking new recipes at home.",
-      "arabic": "أحب طبخ وصفات جديدة في المنزل.",
-      "pronunciation": "Uhibbu tabkh wasafaat jadeedah fi al-manzil.",
-      "context": "Mention an activity you enjoy doing within your own residence."
+      "english": "My wife is very kind.",
+      "arabic": "زوجتي لطيفة جداً.",
+      "pronunciation": "Zawjati lateefah jiddan.",
+      "context": "Express appreciation for your wife's personality."
     }
   ],
   "total": 5
