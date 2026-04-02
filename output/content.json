@@ -1,35 +1,35 @@
 {
-  "category": "الطعام والطعام",
+  "category": "الأرقام والوقت",
   "phrases": [
     {
-      "english": "I would like to order a plate of grilled chicken, please.",
-      "arabic": "أرغب في طلب طبق دجاج مشوي، من فضلك.",
-      "pronunciation": "Arghab fi talab tabaq dajaj mashwi, min fadlik.",
-      "context": "Use this when ordering food at a restaurant."
+      "english": "What time is it right now?",
+      "arabic": "كم الساعة الآن؟",
+      "pronunciation": "Kam as-sa'a al-aan?",
+      "context": "Use this to ask for the current time."
     },
     {
-      "english": "This food is very delicious, thank you.",
-      "arabic": "هذا الطعام لذيذ جداً، شكراً لكم.",
-      "pronunciation": "Hatha at-ta'am ladheedh jiddan, shukran lakum.",
-      "context": "Say this to compliment the chef or the server on the meal."
+      "english": "The meeting is scheduled for three o'clock in the afternoon.",
+      "arabic": "الاجتماع مقرر في الساعة الثالثة بعد الظهر.",
+      "pronunciation": "Al-ijtimaa' muqarrar fi as-sa'a ath-thalitha ba'd adh-dhuhr.",
+      "context": "Use this to state a specific appointment time."
     },
     {
-      "english": "Can I have the bill, please?",
-      "arabic": "هل يمكنني الحصول على الفاتورة، من فضلك؟",
-      "pronunciation": "Hal yumkinuni al-husool ala al-fatoorah, min fadlik?",
-      "context": "Use this to ask for the check at the end of your meal."
+      "english": "I need two apples and one banana from the market.",
+      "arabic": "أحتاج تفاحتين وموزة واحدة من السوق.",
+      "pronunciation": "Ahtaj tuffahtain wa mawzah wahida min as-souq.",
+      "context": "Use this when you want to buy a specific quantity of items."
     },
     {
-      "english": "I am allergic to peanuts.",
-      "arabic": "أنا لدي حساسية من الفول السوداني.",
-      "pronunciation": "Ana ladayya hasasiyya min al-foul as-sudani.",
-      "context": "Inform your server about any food allergies before ordering."
+      "english": "My birthday is on the fifth of May.",
+      "arabic": "عيد ميلادي في الخامس من مايو.",
+      "pronunciation": "Eid miladi fi al-khamis min Mayo.",
+      "context": "Use this to tell someone your birthday."
     },
     {
-      "english": "What is the specialty of the house?",
-      "arabic": "ما هو تخصص المطعم؟",
-      "pronunciation": "Ma huwa takhassus al-mat'am?",
-      "context": "Ask this to inquire about the restaurant's signature dishes."
+      "english": "Can you repeat that number please?",
+      "arabic": "هل يمكنك تكرار هذا الرقم من فضلك؟",
+      "pronunciation": "Hal yumkinuka tikrar hadha ar-raqm min fadlik?",
+      "context": "Use this when you didn't catch a number."
     }
   ],
   "total": 5
