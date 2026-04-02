@@ -1,35 +1,35 @@
 {
-  "category": "النجاح",
+  "category": "الاتجاهات",
   "phrases": [
     {
-      "english": "Hello, how are you today?",
-      "arabic": "مرحباً، كيف حالك اليوم؟",
-      "pronunciation": "Marhaban, kayfa haluk al-youm?",
-      "context": "A polite and common greeting to initiate a conversation."
+      "english": "Excuse me, where is the nearest bathroom?",
+      "arabic": "عفواً، أين أقرب حمام؟",
+      "pronunciation": "Afwan, ayna aqrab hammam?",
+      "context": "Use this when you need to find a restroom urgently."
     },
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً على مساعدتك.",
-      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
-      "context": "Expressing gratitude after someone has assisted you."
+      "english": "Can you please show me on the map?",
+      "arabic": "هل يمكنك أن تريني على الخريطة من فضلك؟",
+      "pronunciation": "Hal yumkinuka an turini 'ala al-khareeta min fadlik?",
+      "context": "This is helpful when you are lost and have a map."
     },
     {
-      "english": "I would like to order a cup of coffee.",
-      "arabic": "أود طلب فنجان قهوة.",
-      "pronunciation": "Awad talab finjan qahwa.",
-      "context": "Used when ordering food or drinks in a cafe or restaurant."
+      "english": "How do I get to the train station?",
+      "arabic": "كيف أصل إلى محطة القطار؟",
+      "pronunciation": "Kayfa asil ila mahattat al-qitar?",
+      "context": "Ask this when you need directions to a transportation hub."
     },
     {
-      "english": "Excuse me, where is the bathroom?",
-      "arabic": "عفواً، أين الحمام؟",
-      "pronunciation": "'Afwan, ayna al-hammam?",
-      "context": "Asking for directions to a public restroom."
+      "english": "Is it far from here?",
+      "arabic": "هل هو بعيد من هنا؟",
+      "pronunciation": "Hal huwa ba'eed min huna?",
+      "context": "Inquire about the distance to a specific location."
     },
     {
-      "english": "Goodbye, it was nice meeting you.",
-      "arabic": "مع السلامة، سررت بلقائك.",
-      "pronunciation": "Ma'a as-salama, surirtu bi-liqa'ik.",
-      "context": "A polite way to end an interaction or a visit."
+      "english": "Turn left at the next corner.",
+      "arabic": "اتجه يسارًا عند الزاوية القادمة.",
+      "pronunciation": "Ittajih yasaaran 'inda al-zawiya al-qadima.",
+      "context": "This is a common directional instruction you might receive."
     }
   ],
   "total": 5
