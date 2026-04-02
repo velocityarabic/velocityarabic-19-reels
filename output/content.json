@@ -1,35 +1,35 @@
 {
-  "category": "التسوق",
+  "category": "النجاح",
   "phrases": [
     {
-      "english": "How much does this cost?",
-      "arabic": "بكم هذا؟",
-      "pronunciation": "Bikam hatha?",
-      "context": "Use this when you want to ask the price of an item."
+      "english": "Hello, how are you today?",
+      "arabic": "مرحباً، كيف حالك اليوم؟",
+      "pronunciation": "Marhaban, kayfa haluk al-youm?",
+      "context": "A polite and common greeting to initiate a conversation."
     },
     {
-      "english": "I want to buy this shirt.",
-      "arabic": "أريد شراء هذه القميص.",
-      "pronunciation": "Ureed shiraa' hathihi al-qamees.",
-      "context": "Use this when you have decided to purchase a specific item."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً على مساعدتك.",
+      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
+      "context": "Expressing gratitude after someone has assisted you."
     },
     {
-      "english": "Do you have this in a smaller size?",
-      "arabic": "هل لديكم هذا بمقاس أصغر؟",
-      "pronunciation": "Hal ladaykum hatha bimqaas asghar?",
-      "context": "Use this when the item is too big and you need a different size."
+      "english": "I would like to order a cup of coffee.",
+      "arabic": "أود طلب فنجان قهوة.",
+      "pronunciation": "Awad talab finjan qahwa.",
+      "context": "Used when ordering food or drinks in a cafe or restaurant."
     },
     {
-      "english": "Can I pay with a credit card?",
-      "arabic": "هل يمكنني الدفع ببطاقة الائتمان؟",
-      "pronunciation": "Hal yumkinuni ad-daf' bibitaaqat al-i'timaan?",
-      "context": "Use this to inquire about payment methods."
+      "english": "Excuse me, where is the bathroom?",
+      "arabic": "عفواً، أين الحمام؟",
+      "pronunciation": "'Afwan, ayna al-hammam?",
+      "context": "Asking for directions to a public restroom."
     },
     {
-      "english": "Where is the changing room?",
-      "arabic": "أين غرفة القياس؟",
-      "pronunciation": "Ayna ghurfat al-qiyaas?",
-      "context": "Use this when you need to try on clothes before buying."
+      "english": "Goodbye, it was nice meeting you.",
+      "arabic": "مع السلامة، سررت بلقائك.",
+      "pronunciation": "Ma'a as-salama, surirtu bi-liqa'ik.",
+      "context": "A polite way to end an interaction or a visit."
     }
   ],
   "total": 5
