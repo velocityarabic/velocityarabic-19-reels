@@ -1,35 +1,35 @@
 {
-  "category": "الاتجاهات",
+  "category": "العواطف والمشاعر",
   "phrases": [
     {
-      "english": "Excuse me, where is the nearest bathroom?",
-      "arabic": "عفواً، أين أقرب حمام؟",
-      "pronunciation": "Afwan, ayna aqrab hammam?",
-      "context": "Use this when you need to find a restroom urgently."
+      "english": "I am very happy today.",
+      "arabic": "أنا سعيد جدًا اليوم.",
+      "pronunciation": "Ana sa'eed jiddan al-yawm.",
+      "context": "Use this when you feel a strong sense of joy."
     },
     {
-      "english": "Can you please show me on the map?",
-      "arabic": "هل يمكنك أن تريني على الخريطة من فضلك؟",
-      "pronunciation": "Hal yumkinuka an turini 'ala al-khareeta min fadlik?",
-      "context": "This is helpful when you are lost and have a map."
+      "english": "He looks sad because he misses his family.",
+      "arabic": "يبدو حزينًا لأنه يشتاق لعائلته.",
+      "pronunciation": "Yabdoo hazeenan li'annahu yashtaaqu li'aa'ilatih.",
+      "context": "Describe someone's visible unhappiness and its cause."
     },
     {
-      "english": "How do I get to the train station?",
-      "arabic": "كيف أصل إلى محطة القطار؟",
-      "pronunciation": "Kayfa asil ila mahattat al-qitar?",
-      "context": "Ask this when you need directions to a transportation hub."
+      "english": "She is angry about the delayed train.",
+      "arabic": "إنها غاضبة بسبب تأخر القطار.",
+      "pronunciation": "Innaha ghaadibah bisabab ta'akhur al-qitar.",
+      "context": "Explain someone's frustration and the reason for it."
     },
     {
-      "english": "Is it far from here?",
-      "arabic": "هل هو بعيد من هنا؟",
-      "pronunciation": "Hal huwa ba'eed min huna?",
-      "context": "Inquire about the distance to a specific location."
+      "english": "I feel scared of the loud noise.",
+      "arabic": "أشعر بالخوف من الضوضاء العالية.",
+      "pronunciation": "Ash'uru bil-khawfi min al-dawdaa' al-'aaliyah.",
+      "context": "Express your fear in response to a startling sound."
     },
     {
-      "english": "Turn left at the next corner.",
-      "arabic": "اتجه يسارًا عند الزاوية القادمة.",
-      "pronunciation": "Ittajih yasaaran 'inda al-zawiya al-qadima.",
-      "context": "This is a common directional instruction you might receive."
+      "english": "We are excited for our upcoming vacation.",
+      "arabic": "نحن متحمسون لعطلتنا القادمة.",
+      "pronunciation": "Nahnu mutahammisoon li'utlatina al-qaadimah.",
+      "context": "Share your anticipation for a future enjoyable event."
     }
   ],
   "total": 5
