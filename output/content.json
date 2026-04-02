@@ -1,35 +1,35 @@
 {
-  "category": "الأرقام والوقت",
+  "category": "الهوايات والأنشطة",
   "phrases": [
     {
-      "english": "What time is it right now?",
-      "arabic": "كم الساعة الآن؟",
-      "pronunciation": "Kam as-sa'a al-aan?",
-      "context": "Use this to ask for the current time."
+      "english": "I enjoy reading books in my free time.",
+      "arabic": "أنا أستمتع بقراءة الكتب في وقت فراغي.",
+      "pronunciation": "Ana astamti' bi qira'at al-kutub fi waqt faraaghee.",
+      "context": "Use this to talk about a hobby you do when you have spare time."
     },
     {
-      "english": "The meeting is scheduled for three o'clock in the afternoon.",
-      "arabic": "الاجتماع مقرر في الساعة الثالثة بعد الظهر.",
-      "pronunciation": "Al-ijtimaa' muqarrar fi as-sa'a ath-thalitha ba'd adh-dhuhr.",
-      "context": "Use this to state a specific appointment time."
+      "english": "My favorite hobby is playing football.",
+      "arabic": "هوايتي المفضلة هي لعب كرة القدم.",
+      "pronunciation": "Hiwaayati al-mufaddalah hiya la'ib kurat al-qadam.",
+      "context": "State your most preferred pastime."
     },
     {
-      "english": "I need two apples and one banana from the market.",
-      "arabic": "أحتاج تفاحتين وموزة واحدة من السوق.",
-      "pronunciation": "Ahtaj tuffahtain wa mawzah wahida min as-souq.",
-      "context": "Use this when you want to buy a specific quantity of items."
+      "english": "I like to travel and explore new places.",
+      "arabic": "أحب السفر واستكشاف الأماكن الجديدة.",
+      "pronunciation": "Uhibbu as-safar wa istikshaaf al-amakin al-jadeedah.",
+      "context": "Describe your passion for visiting different locations."
     },
     {
-      "english": "My birthday is on the fifth of May.",
-      "arabic": "عيد ميلادي في الخامس من مايو.",
-      "pronunciation": "Eid miladi fi al-khamis min Mayo.",
-      "context": "Use this to tell someone your birthday."
+      "english": "I spend my weekends hiking in the mountains.",
+      "arabic": "أقضي عطلة نهاية الأسبوع في التنزه في الجبال.",
+      "pronunciation": "Aqdee 'utlat nihayat al-usbu' fi at-tanazzuh fi al-jibaal.",
+      "context": "Share how you typically spend your weekends engaging in an activity."
     },
     {
-      "english": "Can you repeat that number please?",
-      "arabic": "هل يمكنك تكرار هذا الرقم من فضلك؟",
-      "pronunciation": "Hal yumkinuka tikrar hadha ar-raqm min fadlik?",
-      "context": "Use this when you didn't catch a number."
+      "english": "I love cooking new recipes at home.",
+      "arabic": "أحب طبخ وصفات جديدة في المنزل.",
+      "pronunciation": "Uhibbu tabkh wasafaat jadeedah fi al-manzil.",
+      "context": "Mention an activity you enjoy doing within your own residence."
     }
   ],
   "total": 5
