@@ -1,35 +1,35 @@
 {
-  "category": "العواطف والمشاعر",
+  "category": "الصحة والجسد",
   "phrases": [
     {
-      "english": "I am very happy today.",
-      "arabic": "أنا سعيد جدًا اليوم.",
-      "pronunciation": "Ana sa'eed jiddan al-yawm.",
-      "context": "Use this when you feel a strong sense of joy."
+      "english": "I have a headache.",
+      "arabic": "أنا أشعر بصداع.",
+      "pronunciation": "Ana asha'ur bi sudaa'.",
+      "context": "Use this when you feel pain in your head."
     },
     {
-      "english": "He looks sad because he misses his family.",
-      "arabic": "يبدو حزينًا لأنه يشتاق لعائلته.",
-      "pronunciation": "Yabdoo hazeenan li'annahu yashtaaqu li'aa'ilatih.",
-      "context": "Describe someone's visible unhappiness and its cause."
+      "english": "I feel tired.",
+      "arabic": "أشعر بالتعب.",
+      "pronunciation": "Asha'ur bil ta'ab.",
+      "context": "Say this when you need rest."
     },
     {
-      "english": "She is angry about the delayed train.",
-      "arabic": "إنها غاضبة بسبب تأخر القطار.",
-      "pronunciation": "Innaha ghaadibah bisabab ta'akhur al-qitar.",
-      "context": "Explain someone's frustration and the reason for it."
+      "english": "I am allergic to peanuts.",
+      "arabic": "لدي حساسية من الفول السوداني.",
+      "pronunciation": "Ladai hasasiyya min al-foul as-soudani.",
+      "context": "Inform others about this food allergy."
     },
     {
-      "english": "I feel scared of the loud noise.",
-      "arabic": "أشعر بالخوف من الضوضاء العالية.",
-      "pronunciation": "Ash'uru bil-khawfi min al-dawdaa' al-'aaliyah.",
-      "context": "Express your fear in response to a startling sound."
+      "english": "My stomach hurts.",
+      "arabic": "معدتي تؤلمني.",
+      "pronunciation": "Ma'idati tu'limuni.",
+      "context": "Use this when you have stomach pain."
     },
     {
-      "english": "We are excited for our upcoming vacation.",
-      "arabic": "نحن متحمسون لعطلتنا القادمة.",
-      "pronunciation": "Nahnu mutahammisoon li'utlatina al-qaadimah.",
-      "context": "Share your anticipation for a future enjoyable event."
+      "english": "I need to see a doctor.",
+      "arabic": "أحتاج إلى رؤية طبيب.",
+      "pronunciation": "Ahtaj ila ru'yat tabeeb.",
+      "context": "Say this when you require medical attention."
     }
   ],
   "total": 5
