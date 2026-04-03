@@ -1,35 +1,35 @@
 {
-  "category": "التحيات اليومية",
+  "category": "الدافع",
   "phrases": [
     {
-      "english": "Hello, how are you today?",
-      "arabic": "مرحباً، كيف حالك اليوم؟",
-      "pronunciation": "Marhaban, kayfa haluka al-yawm?",
-      "context": "A standard and polite greeting to inquire about someone's well-being."
+      "english": "I want to learn Arabic very much.",
+      "arabic": "أريد أن أتعلم اللغة العربية كثيرًا.",
+      "pronunciation": "Ureed an ata'allam al-lughah al-'arabiyyah katheeran.",
+      "context": "Use this to express your strong desire to study the Arabic language."
     },
     {
-      "english": "Good morning, may your morning be blessed.",
-      "arabic": "صباح الخير، صباح النور.",
-      "pronunciation": "Sabah al-khair, sabah al-noor.",
-      "context": "Used to greet someone in the morning, with the second part being a common reply."
+      "english": "This Arabic word is difficult for me.",
+      "arabic": "هذه الكلمة العربية صعبة بالنسبة لي.",
+      "pronunciation": "Hadhihi al-kalimah al-'arabiyyah sa'bah bil-nisbah li.",
+      "context": "Use this when you find a specific Arabic word challenging to understand or pronounce."
     },
     {
-      "english": "Good evening, may your evening be pleasant.",
-      "arabic": "مساء الخير، مساء النور.",
-      "pronunciation": "Masa' al-khair, masa' al-noor.",
-      "context": "Used to greet someone in the evening, similar to the morning greeting."
+      "english": "I practice speaking Arabic every day.",
+      "arabic": "أمارس التحدث باللغة العربية كل يوم.",
+      "pronunciation": "Umaarisu al-tahadduth bil-lughah al-'arabiyyah kull yawm.",
+      "context": "Use this to communicate your dedication to practicing Arabic conversation regularly."
     },
     {
-      "english": "Peace be upon you.",
-      "arabic": "السلام عليكم.",
-      "pronunciation": "As-salamu alaykum.",
-      "context": "A very common and respectful greeting used at any time of day."
+      "english": "Learning Arabic opens many doors for me.",
+      "arabic": "تعلم اللغة العربية يفتح لي أبوابًا كثيرة.",
+      "pronunciation": "Ta'allum al-lughah al-'arabiyyah yaftahu li abwaaban katheerah.",
+      "context": "Use this to describe the opportunities that learning Arabic provides."
     },
     {
-      "english": "Goodbye, I will see you later.",
-      "arabic": "إلى اللقاء، أراك لاحقاً.",
-      "pronunciation": "Ila al-liqaa', arak lahiqan.",
-      "context": "A polite way to say farewell when you expect to meet the person again."
+      "english": "I am motivated by the rich culture of Arabic-speaking countries.",
+      "arabic": "أنا متحمس للثقافة الغنية للدول العربية.",
+      "pronunciation": "Ana mutahammis lil-thaqafah al-ghaniyyah lil-duwal al-'arabiyyah.",
+      "context": "Use this to explain what drives your motivation to learn Arabic."
     }
   ],
   "total": 5
