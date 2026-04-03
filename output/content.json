@@ -1,35 +1,35 @@
 {
-  "category": "الألوان والأوصاف",
+  "category": "الأرقام والوقت",
   "phrases": [
     {
-      "english": "This shirt is a beautiful blue color.",
-      "arabic": "هذا القميص لونه أزرق جميل.",
-      "pronunciation": "Hadha al-qamees lawnuhu azraq jameel.",
-      "context": "Use this to compliment clothing or other items you find visually appealing."
+      "english": "What time is it right now?",
+      "arabic": "كم الساعة الآن؟",
+      "pronunciation": "Kam as-sa'a al-aan?",
+      "context": "Use this to ask for the current time."
     },
     {
-      "english": "The car is black and very fast.",
-      "arabic": "السيارة سوداء وسريعة جداً.",
-      "pronunciation": "Al-sayyarah sawda' wa saree'ah jiddan.",
-      "context": "This phrase is useful for describing vehicles and their performance."
+      "english": "The meeting is scheduled for three o'clock in the afternoon.",
+      "arabic": "الاجتماع مقرر في الساعة الثالثة بعد الظهر.",
+      "pronunciation": "Al-ijtimaa' muqarrar fi as-sa'a ath-thalitha ba'd adh-dhuhr.",
+      "context": "Use this to state a specific appointment time."
     },
     {
-      "english": "I like the green color of the trees.",
-      "arabic": "أحب اللون الأخضر للأشجار.",
-      "pronunciation": "Uhibbu al-lawn al-akhdar lil-ashjar.",
-      "context": "Employ this when you want to express appreciation for nature's colors."
+      "english": "I need two apples and one banana from the market.",
+      "arabic": "أحتاج تفاحتين وموزة واحدة من السوق.",
+      "pronunciation": "Ahtaj tuffahtain wa mawzah wahida min as-souq.",
+      "context": "Use this when you want to buy a specific quantity of items."
     },
     {
-      "english": "Her dress is a lovely shade of red.",
-      "arabic": "فستانها درجة جميلة من اللون الأحمر.",
-      "pronunciation": "Fustanuhā darajah jameelah min al-lawn al-ahmar.",
-      "context": "This is perfect for describing a person's clothing with a specific color."
+      "english": "My birthday is on the fifth of May.",
+      "arabic": "عيد ميلادي في الخامس من مايو.",
+      "pronunciation": "Eid miladi fi al-khamis min Mayo.",
+      "context": "Use this to tell someone your birthday."
     },
     {
-      "english": "The sky is bright yellow during sunset.",
-      "arabic": "السماء صفراء لامعة وقت الغروب.",
-      "pronunciation": "Al-sama' safra' laami'ah waqt al-ghuroob.",
-      "context": "Use this to describe natural phenomena and atmospheric conditions."
+      "english": "Can you repeat that number please?",
+      "arabic": "هل يمكنك تكرار هذا الرقم من فضلك؟",
+      "pronunciation": "Hal yumkinuka tikrar hadha ar-raqm min fadlik?",
+      "context": "Use this when you didn't catch a number."
     }
   ],
   "total": 5
