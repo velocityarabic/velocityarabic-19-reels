@@ -1,35 +1,35 @@
 {
-  "category": "العبارات الشائعة",
+  "category": "العمل والأعمال",
   "phrases": [
     {
-      "english": "Hello, how are you today?",
-      "arabic": "مرحباً، كيف حالك اليوم؟",
-      "pronunciation": "Marhaban, kayfa haluk al-yawm?",
-      "context": "A polite greeting to inquire about someone's well-being."
+      "english": "I am looking for a new job opportunity.",
+      "arabic": "أنا أبحث عن فرصة عمل جديدة.",
+      "pronunciation": "Ana abHath 'an furSa 'amal jadeeda.",
+      "context": "Use this when you are actively seeking employment."
     },
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً لك على مساعدتك.",
-      "pronunciation": "Shukran jazeelan lak 'ala musa'adatik.",
-      "context": "Expressing gratitude for assistance received."
+      "english": "What are your working hours?",
+      "arabic": "ما هي ساعات عملك؟",
+      "pronunciation": "Ma hiya saa'aat 'amalak?",
+      "context": "Inquire about the typical daily schedule at a workplace."
     },
     {
-      "english": "Excuse me, where is the train station?",
-      "arabic": "عفواً، أين تقع محطة القطار؟",
-      "pronunciation": "'Afwan, ayn taqa' mahattat al-qitar?",
-      "context": "Asking for directions politely."
+      "english": "This project requires a lot of effort.",
+      "arabic": "هذا المشروع يتطلب الكثير من الجهد.",
+      "pronunciation": "Hatha al-mashroo' yatatallab al-katheer min al-juhd.",
+      "context": "Describe a task that demands significant work."
     },
     {
-      "english": "I don't understand this word.",
-      "arabic": "أنا لا أفهم هذه الكلمة.",
-      "pronunciation": "Ana la afham hadhihi al-kalimah.",
-      "context": "Indicating a lack of comprehension about a specific term."
+      "english": "I need to schedule a meeting with the manager.",
+      "arabic": "أحتاج إلى تحديد موعد اجتماع مع المدير.",
+      "pronunciation": "AHTaaj ila taHdeed maw'id ijtimaa' ma'a al-mudeer.",
+      "context": "Arrange a formal discussion with your supervisor."
     },
     {
-      "english": "Nice to meet you.",
-      "arabic": "تشرفت بلقائك.",
-      "pronunciation": "Tasharraftu biliqa'ik.",
-      "context": "A polite closing remark after being introduced to someone."
+      "english": "Our company has a great team.",
+      "arabic": "شركتنا لديها فريق رائع.",
+      "pronunciation": "Sharikatuna ladayha fareeq raa'i'.",
+      "context": "Praise the collaborative spirit of your colleagues."
     }
   ],
   "total": 5
