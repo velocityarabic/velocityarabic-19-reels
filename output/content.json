@@ -1,35 +1,35 @@
 {
-  "category": "العبارات الشائعة",
+  "category": "الطقس",
   "phrases": [
     {
-      "english": "Hello, how are you today?",
-      "arabic": "مرحباً، كيف حالك اليوم؟",
-      "pronunciation": "Marhaban, kayfa haluk al-yawm?",
-      "context": "A polite greeting to inquire about someone's well-being."
+      "english": "What is the weather like today?",
+      "arabic": "كيف حال الطقس اليوم؟",
+      "pronunciation": "Kayf hal al-taqs al-yawm?",
+      "context": "Ask this to inquire about the current weather conditions."
     },
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً لك على مساعدتك.",
-      "pronunciation": "Shukran jazeelan lak 'ala musa'adatik.",
-      "context": "Expressing gratitude for assistance received."
+      "english": "It is very hot outside.",
+      "arabic": "الجو حار جداً في الخارج.",
+      "pronunciation": "Al-jaww har jiddan fil kharij.",
+      "context": "Use this when the temperature is high."
     },
     {
-      "english": "Excuse me, where is the train station?",
-      "arabic": "عفواً، أين تقع محطة القطار؟",
-      "pronunciation": "'Afwan, ayn taqa' mahattat al-qitar?",
-      "context": "Asking for directions politely."
+      "english": "It is cold and I need a jacket.",
+      "arabic": "الجو بارد وأحتاج إلى سترة.",
+      "pronunciation": "Al-jaww barid wa ahtaju ila sitra.",
+      "context": "Say this when the temperature is low and you feel the need for warm clothing."
     },
     {
-      "english": "I don't understand this word.",
-      "arabic": "أنا لا أفهم هذه الكلمة.",
-      "pronunciation": "Ana la afham hadhihi al-kalimah.",
-      "context": "Indicating a lack of comprehension about a specific term."
+      "english": "It looks like it will rain soon.",
+      "arabic": "يبدو أنه ستمطر قريباً.",
+      "pronunciation": "Yabdu annahu satumtir qareeban.",
+      "context": "Use this when you anticipate rain."
     },
     {
-      "english": "Nice to meet you.",
-      "arabic": "تشرفت بلقائك.",
-      "pronunciation": "Tasharraftu biliqa'ik.",
-      "context": "A polite closing remark after being introduced to someone."
+      "english": "The sky is clear and sunny.",
+      "arabic": "السماء صافية ومشمسة.",
+      "pronunciation": "Al-samaa' safiya wa mushmisa.",
+      "context": "Describe a day with no clouds and bright sunshine."
     }
   ],
   "total": 5
