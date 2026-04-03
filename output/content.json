@@ -1,35 +1,35 @@
 {
-  "category": "الاتجاهات",
+  "category": "العبارات الشائعة",
   "phrases": [
     {
-      "english": "Excuse me, where is the nearest bathroom?",
-      "arabic": "عفواً، أين أقرب حمام؟",
-      "pronunciation": "Afwan, ayna aqrab hammam?",
-      "context": "Use this when you need to find a restroom urgently."
+      "english": "Hello, how are you today?",
+      "arabic": "مرحباً، كيف حالك اليوم؟",
+      "pronunciation": "Marhaban, kayfa haluk al-yawm?",
+      "context": "A polite greeting to inquire about someone's well-being."
     },
     {
-      "english": "Can you please show me on the map?",
-      "arabic": "هل يمكنك أن تريني على الخريطة من فضلك؟",
-      "pronunciation": "Hal yumkinuka an turini 'ala al-khareeta min fadlik?",
-      "context": "This is helpful when you are lost and have a map."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً لك على مساعدتك.",
+      "pronunciation": "Shukran jazeelan lak 'ala musa'adatik.",
+      "context": "Expressing gratitude for assistance received."
     },
     {
-      "english": "How do I get to the train station?",
-      "arabic": "كيف أصل إلى محطة القطار؟",
-      "pronunciation": "Kayfa asil ila mahattat al-qitar?",
-      "context": "Ask this when you need directions to a transportation hub."
+      "english": "Excuse me, where is the train station?",
+      "arabic": "عفواً، أين تقع محطة القطار؟",
+      "pronunciation": "'Afwan, ayn taqa' mahattat al-qitar?",
+      "context": "Asking for directions politely."
     },
     {
-      "english": "Is it far from here?",
-      "arabic": "هل هو بعيد من هنا؟",
-      "pronunciation": "Hal huwa ba'eed min huna?",
-      "context": "Inquire about the distance to a specific location."
+      "english": "I don't understand this word.",
+      "arabic": "أنا لا أفهم هذه الكلمة.",
+      "pronunciation": "Ana la afham hadhihi al-kalimah.",
+      "context": "Indicating a lack of comprehension about a specific term."
     },
     {
-      "english": "Turn left at the next corner.",
-      "arabic": "اتجه يسارًا عند الزاوية القادمة.",
-      "pronunciation": "Ittajih yasaaran 'inda al-zawiya al-qadima.",
-      "context": "This is a common directional instruction you might receive."
+      "english": "Nice to meet you.",
+      "arabic": "تشرفت بلقائك.",
+      "pronunciation": "Tasharraftu biliqa'ik.",
+      "context": "A polite closing remark after being introduced to someone."
     }
   ],
   "total": 5
