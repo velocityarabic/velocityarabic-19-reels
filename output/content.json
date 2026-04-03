@@ -1,35 +1,35 @@
 {
-  "category": "العمل والأعمال",
+  "category": "السعادة",
   "phrases": [
     {
-      "english": "I am looking for a new job opportunity.",
-      "arabic": "أنا أبحث عن فرصة عمل جديدة.",
-      "pronunciation": "Ana abHath 'an furSa 'amal jadeeda.",
-      "context": "Use this when you are actively seeking employment."
+      "english": "I am very happy today because I achieved my goal.",
+      "arabic": "أنا سعيد جداً اليوم لأنني حققت هدفي.",
+      "pronunciation": "Ana sa'eed jiddan al-yawm li'annani haqaqtu hadafi.",
+      "context": "Expressing personal joy and satisfaction."
     },
     {
-      "english": "What are your working hours?",
-      "arabic": "ما هي ساعات عملك؟",
-      "pronunciation": "Ma hiya saa'aat 'amalak?",
-      "context": "Inquire about the typical daily schedule at a workplace."
+      "english": "This beautiful weather makes me feel joyful.",
+      "arabic": "هذا الجو الجميل يجعلني أشعر بالسعادة.",
+      "pronunciation": "Hadha al-jaww al-jameel yaj'aluni ash'ur bis-sa'adah.",
+      "context": "Connecting a pleasant environment to a feeling of happiness."
     },
     {
-      "english": "This project requires a lot of effort.",
-      "arabic": "هذا المشروع يتطلب الكثير من الجهد.",
-      "pronunciation": "Hatha al-mashroo' yatatallab al-katheer min al-juhd.",
-      "context": "Describe a task that demands significant work."
+      "english": "Seeing my family always brings me great happiness.",
+      "arabic": "رؤية عائلتي دائماً تجلب لي سعادة كبيرة.",
+      "pronunciation": "Ru'yat 'a'ilati da'iman tajlib li sa'adah kabirah.",
+      "context": "Describing a source of consistent happiness."
     },
     {
-      "english": "I need to schedule a meeting with the manager.",
-      "arabic": "أحتاج إلى تحديد موعد اجتماع مع المدير.",
-      "pronunciation": "AHTaaj ila taHdeed maw'id ijtimaa' ma'a al-mudeer.",
-      "context": "Arrange a formal discussion with your supervisor."
+      "english": "I wish you all the happiness in the world.",
+      "arabic": "أتمنى لك كل السعادة في العالم.",
+      "pronunciation": "Atamanna laka kull as-sa'adah fil-'alam.",
+      "context": "Offering a heartfelt wish for someone's well-being."
     },
     {
-      "english": "Our company has a great team.",
-      "arabic": "شركتنا لديها فريق رائع.",
-      "pronunciation": "Sharikatuna ladayha fareeq raa'i'.",
-      "context": "Praise the collaborative spirit of your colleagues."
+      "english": "Finding this book was a moment of pure bliss.",
+      "arabic": "العثور على هذا الكتاب كان لحظة سعادة غامرة.",
+      "pronunciation": "Al-'uthur 'ala hadha al-kitab kana lahzhat sa'adah ghamirah.",
+      "context": "Highlighting a specific event that caused intense happiness."
     }
   ],
   "total": 5
