@@ -1,35 +1,35 @@
 {
-  "category": "الطعام والطعام",
+  "category": "العبارات الشائعة",
   "phrases": [
     {
-      "english": "I would like to order a plate of grilled chicken, please.",
-      "arabic": "أرغب في طلب طبق دجاج مشوي، من فضلك.",
-      "pronunciation": "Arghab fi talab tabaq dajaj mashwi, min fadlik.",
-      "context": "Use this when ordering food at a restaurant."
+      "english": "Hello, how are you today?",
+      "arabic": "مرحباً، كيف حالك اليوم؟",
+      "pronunciation": "Marhaban, kayfa haluk al-yawm?",
+      "context": "A polite greeting to inquire about someone's well-being."
     },
     {
-      "english": "This food is very delicious, thank you.",
-      "arabic": "هذا الطعام لذيذ جداً، شكراً لكم.",
-      "pronunciation": "Hatha at-ta'am ladheedh jiddan, shukran lakum.",
-      "context": "Say this to compliment the chef or the server on the meal."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً لك على مساعدتك.",
+      "pronunciation": "Shukran jazeelan lak 'ala musa'adatik.",
+      "context": "Expressing gratitude for assistance received."
     },
     {
-      "english": "Can I have the bill, please?",
-      "arabic": "هل يمكنني الحصول على الفاتورة، من فضلك؟",
-      "pronunciation": "Hal yumkinuni al-husool ala al-fatoorah, min fadlik?",
-      "context": "Use this to ask for the check at the end of your meal."
+      "english": "Excuse me, where is the train station?",
+      "arabic": "عفواً، أين تقع محطة القطار؟",
+      "pronunciation": "'Afwan, ayn taqa' mahattat al-qitar?",
+      "context": "Asking for directions politely."
     },
     {
-      "english": "I am allergic to peanuts.",
-      "arabic": "أنا لدي حساسية من الفول السوداني.",
-      "pronunciation": "Ana ladayya hasasiyya min al-foul as-sudani.",
-      "context": "Inform your server about any food allergies before ordering."
+      "english": "I don't understand this word.",
+      "arabic": "أنا لا أفهم هذه الكلمة.",
+      "pronunciation": "Ana la afham hadhihi al-kalimah.",
+      "context": "Indicating a lack of comprehension about a specific term."
     },
     {
-      "english": "What is the specialty of the house?",
-      "arabic": "ما هو تخصص المطعم؟",
-      "pronunciation": "Ma huwa takhassus al-mat'am?",
-      "context": "Ask this to inquire about the restaurant's signature dishes."
+      "english": "Nice to meet you.",
+      "arabic": "تشرفت بلقائك.",
+      "pronunciation": "Tasharraftu biliqa'ik.",
+      "context": "A polite closing remark after being introduced to someone."
     }
   ],
   "total": 5
