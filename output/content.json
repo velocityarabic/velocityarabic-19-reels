@@ -1,35 +1,35 @@
 {
-  "category": "الطعام والطعام",
+  "category": "الهوايات والأنشطة",
   "phrases": [
     {
-      "english": "I would like to order a plate of grilled chicken, please.",
-      "arabic": "أرغب في طلب طبق دجاج مشوي، من فضلك.",
-      "pronunciation": "Arghab fi talab tabaq dajaj mashwi, min fadlik.",
-      "context": "Use this when ordering food at a restaurant."
+      "english": "I enjoy reading books in my free time.",
+      "arabic": "أنا أستمتع بقراءة الكتب في وقت فراغي.",
+      "pronunciation": "Ana astamti' bi qira'at al-kutub fi waqt faraaghee.",
+      "context": "Use this to talk about a hobby you do when you have spare time."
     },
     {
-      "english": "This food is very delicious, thank you.",
-      "arabic": "هذا الطعام لذيذ جداً، شكراً لكم.",
-      "pronunciation": "Hatha at-ta'am ladheedh jiddan, shukran lakum.",
-      "context": "Say this to compliment the chef or the server on the meal."
+      "english": "My favorite hobby is playing football.",
+      "arabic": "هوايتي المفضلة هي لعب كرة القدم.",
+      "pronunciation": "Hiwaayati al-mufaddalah hiya la'ib kurat al-qadam.",
+      "context": "State your most preferred pastime."
     },
     {
-      "english": "Can I have the bill, please?",
-      "arabic": "هل يمكنني الحصول على الفاتورة، من فضلك؟",
-      "pronunciation": "Hal yumkinuni al-husool ala al-fatoorah, min fadlik?",
-      "context": "Use this to ask for the check at the end of your meal."
+      "english": "I like to travel and explore new places.",
+      "arabic": "أحب السفر واستكشاف الأماكن الجديدة.",
+      "pronunciation": "Uhibbu as-safar wa istikshaaf al-amakin al-jadeedah.",
+      "context": "Describe your passion for visiting different locations."
     },
     {
-      "english": "I am allergic to peanuts.",
-      "arabic": "أنا لدي حساسية من الفول السوداني.",
-      "pronunciation": "Ana ladayya hasasiyya min al-foul as-sudani.",
-      "context": "Inform your server about any food allergies before ordering."
+      "english": "I spend my weekends hiking in the mountains.",
+      "arabic": "أقضي عطلة نهاية الأسبوع في التنزه في الجبال.",
+      "pronunciation": "Aqdee 'utlat nihayat al-usbu' fi at-tanazzuh fi al-jibaal.",
+      "context": "Share how you typically spend your weekends engaging in an activity."
     },
     {
-      "english": "What is the specialty of the house?",
-      "arabic": "ما هو تخصص المطعم؟",
-      "pronunciation": "Ma huwa takhassus al-mat'am?",
-      "context": "Ask this to inquire about the restaurant's signature dishes."
+      "english": "I love cooking new recipes at home.",
+      "arabic": "أحب طبخ وصفات جديدة في المنزل.",
+      "pronunciation": "Uhibbu tabkh wasafaat jadeedah fi al-manzil.",
+      "context": "Mention an activity you enjoy doing within your own residence."
     }
   ],
   "total": 5
