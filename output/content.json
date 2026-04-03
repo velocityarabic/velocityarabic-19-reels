@@ -1,35 +1,35 @@
 {
-  "category": "الأرقام والوقت",
+  "category": "الاتجاهات",
   "phrases": [
     {
-      "english": "What time is it right now?",
-      "arabic": "كم الساعة الآن؟",
-      "pronunciation": "Kam as-sa'a al-aan?",
-      "context": "Use this to ask for the current time."
+      "english": "Excuse me, where is the nearest bathroom?",
+      "arabic": "عفواً، أين أقرب حمام؟",
+      "pronunciation": "Afwan, ayna aqrab hammam?",
+      "context": "Use this when you need to find a restroom urgently."
     },
     {
-      "english": "The meeting is scheduled for three o'clock in the afternoon.",
-      "arabic": "الاجتماع مقرر في الساعة الثالثة بعد الظهر.",
-      "pronunciation": "Al-ijtimaa' muqarrar fi as-sa'a ath-thalitha ba'd adh-dhuhr.",
-      "context": "Use this to state a specific appointment time."
+      "english": "Can you please show me on the map?",
+      "arabic": "هل يمكنك أن تريني على الخريطة من فضلك؟",
+      "pronunciation": "Hal yumkinuka an turini 'ala al-khareeta min fadlik?",
+      "context": "This is helpful when you are lost and have a map."
     },
     {
-      "english": "I need two apples and one banana from the market.",
-      "arabic": "أحتاج تفاحتين وموزة واحدة من السوق.",
-      "pronunciation": "Ahtaj tuffahtain wa mawzah wahida min as-souq.",
-      "context": "Use this when you want to buy a specific quantity of items."
+      "english": "How do I get to the train station?",
+      "arabic": "كيف أصل إلى محطة القطار؟",
+      "pronunciation": "Kayfa asil ila mahattat al-qitar?",
+      "context": "Ask this when you need directions to a transportation hub."
     },
     {
-      "english": "My birthday is on the fifth of May.",
-      "arabic": "عيد ميلادي في الخامس من مايو.",
-      "pronunciation": "Eid miladi fi al-khamis min Mayo.",
-      "context": "Use this to tell someone your birthday."
+      "english": "Is it far from here?",
+      "arabic": "هل هو بعيد من هنا؟",
+      "pronunciation": "Hal huwa ba'eed min huna?",
+      "context": "Inquire about the distance to a specific location."
     },
     {
-      "english": "Can you repeat that number please?",
-      "arabic": "هل يمكنك تكرار هذا الرقم من فضلك؟",
-      "pronunciation": "Hal yumkinuka tikrar hadha ar-raqm min fadlik?",
-      "context": "Use this when you didn't catch a number."
+      "english": "Turn left at the next corner.",
+      "arabic": "اتجه يسارًا عند الزاوية القادمة.",
+      "pronunciation": "Ittajih yasaaran 'inda al-zawiya al-qadima.",
+      "context": "This is a common directional instruction you might receive."
     }
   ],
   "total": 5
