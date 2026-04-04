@@ -1,35 +1,35 @@
 {
-  "category": "الحب",
+  "category": "العبارات الشائعة",
   "phrases": [
     {
-      "english": "I love you very much.",
-      "arabic": "أنا أحبك جداً.",
-      "pronunciation": "Ana uhibbuka jiddan.",
-      "context": "Use this to express deep affection to someone you love."
+      "english": "Hello, how are you today?",
+      "arabic": "مرحباً، كيف حالك اليوم؟",
+      "pronunciation": "Marhaban, kayfa haluk al-yawm?",
+      "context": "A polite greeting to inquire about someone's well-being."
     },
     {
-      "english": "You are beautiful.",
-      "arabic": "أنتِ جميلة.",
-      "pronunciation": "Anti jameela.",
-      "context": "Say this to compliment a woman's appearance."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً لك على مساعدتك.",
+      "pronunciation": "Shukran jazeelan lak 'ala musa'adatik.",
+      "context": "Expressing gratitude for assistance received."
     },
     {
-      "english": "My heart belongs to you.",
-      "arabic": "قلبي ملكك.",
-      "pronunciation": "Qalbi milkiik.",
-      "context": "A romantic expression to show devotion."
+      "english": "Excuse me, where is the train station?",
+      "arabic": "عفواً، أين تقع محطة القطار؟",
+      "pronunciation": "'Afwan, ayn taqa' mahattat al-qitar?",
+      "context": "Asking for directions politely."
     },
     {
-      "english": "I miss you a lot.",
-      "arabic": "أفتقدك كثيراً.",
-      "pronunciation": "Aftaqiduki katheeran.",
-      "context": "Use when you haven't seen someone you care about for a while."
+      "english": "I don't understand this word.",
+      "arabic": "أنا لا أفهم هذه الكلمة.",
+      "pronunciation": "Ana la afham hadhihi al-kalimah.",
+      "context": "Indicating a lack of comprehension about a specific term."
     },
     {
-      "english": "You are my everything.",
-      "arabic": "أنت كل شيء بالنسبة لي.",
-      "pronunciation": "Anta kullu shay'in bin-nisbati li.",
-      "context": "A strong declaration of how important someone is in your life."
+      "english": "Nice to meet you.",
+      "arabic": "تشرفت بلقائك.",
+      "pronunciation": "Tasharraftu biliqa'ik.",
+      "context": "A polite closing remark after being introduced to someone."
     }
   ],
   "total": 5
