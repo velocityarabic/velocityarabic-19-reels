@@ -1,35 +1,35 @@
 {
-  "category": "الدافع",
+  "category": "العواطف والمشاعر",
   "phrases": [
     {
-      "english": "I want to learn Arabic very much.",
-      "arabic": "أريد أن أتعلم اللغة العربية كثيرًا.",
-      "pronunciation": "Ureed an ata'allam al-lughah al-'arabiyyah katheeran.",
-      "context": "Use this to express your strong desire to study the Arabic language."
+      "english": "I am very happy today.",
+      "arabic": "أنا سعيد جدًا اليوم.",
+      "pronunciation": "Ana sa'eed jiddan al-yawm.",
+      "context": "Use this when you feel a strong sense of joy."
     },
     {
-      "english": "This Arabic word is difficult for me.",
-      "arabic": "هذه الكلمة العربية صعبة بالنسبة لي.",
-      "pronunciation": "Hadhihi al-kalimah al-'arabiyyah sa'bah bil-nisbah li.",
-      "context": "Use this when you find a specific Arabic word challenging to understand or pronounce."
+      "english": "He looks sad because he misses his family.",
+      "arabic": "يبدو حزينًا لأنه يشتاق لعائلته.",
+      "pronunciation": "Yabdoo hazeenan li'annahu yashtaaqu li'aa'ilatih.",
+      "context": "Describe someone's visible unhappiness and its cause."
     },
     {
-      "english": "I practice speaking Arabic every day.",
-      "arabic": "أمارس التحدث باللغة العربية كل يوم.",
-      "pronunciation": "Umaarisu al-tahadduth bil-lughah al-'arabiyyah kull yawm.",
-      "context": "Use this to communicate your dedication to practicing Arabic conversation regularly."
+      "english": "She is angry about the delayed train.",
+      "arabic": "إنها غاضبة بسبب تأخر القطار.",
+      "pronunciation": "Innaha ghaadibah bisabab ta'akhur al-qitar.",
+      "context": "Explain someone's frustration and the reason for it."
     },
     {
-      "english": "Learning Arabic opens many doors for me.",
-      "arabic": "تعلم اللغة العربية يفتح لي أبوابًا كثيرة.",
-      "pronunciation": "Ta'allum al-lughah al-'arabiyyah yaftahu li abwaaban katheerah.",
-      "context": "Use this to describe the opportunities that learning Arabic provides."
+      "english": "I feel scared of the loud noise.",
+      "arabic": "أشعر بالخوف من الضوضاء العالية.",
+      "pronunciation": "Ash'uru bil-khawfi min al-dawdaa' al-'aaliyah.",
+      "context": "Express your fear in response to a startling sound."
     },
     {
-      "english": "I am motivated by the rich culture of Arabic-speaking countries.",
-      "arabic": "أنا متحمس للثقافة الغنية للدول العربية.",
-      "pronunciation": "Ana mutahammis lil-thaqafah al-ghaniyyah lil-duwal al-'arabiyyah.",
-      "context": "Use this to explain what drives your motivation to learn Arabic."
+      "english": "We are excited for our upcoming vacation.",
+      "arabic": "نحن متحمسون لعطلتنا القادمة.",
+      "pronunciation": "Nahnu mutahammisoon li'utlatina al-qaadimah.",
+      "context": "Share your anticipation for a future enjoyable event."
     }
   ],
   "total": 5
